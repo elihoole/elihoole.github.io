@@ -1,12 +1,12 @@
 # The Enduring Relevance of Puthiyathor Ulagam
 
 - [The Enduring Relevance of Puthiyathor Ulagam](#the-enduring-relevance-of-puthiyathor-ulagam)
-  - [Part I: A brave new world](#part-i-a-brave-new-world)
+  - [Part I: a new world](#part-i-a-new-world)
   - [Part II: its inhabitants](#part-ii-its-inhabitants)
   - [Part III: its politics](#part-iii-its-politics)
 
 
-## Part I: A brave new world
+## Part I: a new world
 
 When Govinthan penned Puthiyathor Ulagam (A New World) in 1985, the intelligence wing of a Tamil militant group was hunting for him across Tamil Nadu.
 
