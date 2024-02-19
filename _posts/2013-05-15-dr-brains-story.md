@@ -1,7 +1,12 @@
 # The Murder of Doctor Brains
 
 Contents
-{:toc}
+
+- [The Murder of Doctor Brains](#the-murder-of-doctor-brains)
+  - [Chapter 1: Three Men, Three Missions](#chapter-1-three-men-three-missions)
+  - [Chapter 2: Preparation Time](#chapter-2-preparation-time)
+  - [Chapter 3: The Crime](#chapter-3-the-crime)
+
 
 ## Chapter 1: Three Men, Three Missions
 
