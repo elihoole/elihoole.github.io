@@ -1,3 +1,1 @@
-Welcome to Elijah Hoole's blog. 
-
-This will become an interesting space with time.  
+Trying to collect all my writings into one place. 
