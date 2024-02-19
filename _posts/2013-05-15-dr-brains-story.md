@@ -55,7 +55,7 @@ Dr. Brains was tired of his life. There simply was no way he was going to be abl
 
 The doctor wanted to get killed. 
 
-That way he would have the last laugh [^1].
+That way he would have the last laugh[^1].
 
 
 <center>*</center>
@@ -66,11 +66,11 @@ Over the last few years, however, Thiruppathy's fame had been on the wane. The p
 
 Thiruppathy cussed the Department for obvious reasons. The men of the department were so incompetent in their field that they could not even remember what clues looked like, let alone where to look for them. As a result, the entire criminal industry was doing rather badly. Crime rates were rapidly diminishing in the city. 
 
-The prime motivation for committing a crime – as with doing anything, bar the daily routine activities of eating, sleeping and drinking, in Nallur – was, is, and always will be, the 'fame' factor. Unless you get arrested, there was no way you can get yourself on the front page of The Press Daily, however heinous your crime may be. In the last thirty years that had happened only once.
+The prime motivation for committing a crime – as with doing anything, bar the daily routine activities of eating, sleeping and drinking, in Nallur – was, is, and always will be, the 'fame' factor. Unless you get arrested, there was no way you can get yourself on the front page of The Press Daily, however heinous your crime may be. In the last thirty years that had happened only once[^2].
 
-Thiruppathy was an ATM machine alright; only an ATM machine with a gun and the capacity to hunt down people who did not return the money with the agreed-upon(3) interest. Thiruppathy had his own way of dealing with those who did not return his money. 
+Thiruppathy was an ATM machine alright; only an ATM machine with a gun and the capacity to hunt down people who did not return the money with the agreed-upon[^3] interest. Thiruppathy had his own way of dealing with those who did not return his money. 
 
-With the doctor, apart from visiting the old man for weekly reminders(4), Thiruppathy had been very lenient. 
+With the doctor, apart from visiting the old man for weekly reminders[^4], Thiruppathy had been very lenient. 
 
 After three long years of being very lenient, Thiruppathy felt the need to be extremely lenient. 
 
@@ -96,7 +96,7 @@ He decided to spend the next hour being lazy.
 
 Constable Vendikkai had promised much when he first joined the department. But, after six months of faithful service, Vendikkai suddenly decided to obey the flip side of the old saying 'new brooms sweep well' – that is, ‘old brooms sweep bad’. Now, after six years, he was hardly even being a broom. 
 
-There was a tone of urgency in the Inspector's voice as he called Vendikkai's name. ‘Bring another cup of tea plus three ulunthu vadais’ (5), Sethu issued orders in a manner fitting for an Inspector.
+There was a tone of urgency in the Inspector's voice as he called Vendikkai's name. ‘Bring another cup of tea plus three ulunthu vadais’[^5], Sethu issued orders in a manner fitting for an Inspector.
 
 A bit of ulunthu vadai always put things in perspective. And Raja Cafe's sambol, Sethu would unashamedly swear anytime, came straight from heaven's kitchen. 
 
@@ -215,14 +215,14 @@ Down in the Dark Pit . . .
 
 Unusually, the Master of Eternal Fire was happy too. The last thing he needed was Thiruppathy Thangathurai knocking on his gate. In his realm the population growth was fast getting out of hand. 
 
-  <center>- The End -</center>
+<center>- The End -</center>
+
 [^1]: According to The City Belief System, committing a murder got you so close to the Dark Pit you could almost feel the heat. Thiruppathy Thangathurai couldn’t have cared less.
 
+[^2]: The last time Thiruppathy had been arrested, the focus had been entirely on omnipresence and the Department. The Press Daily ran an opinion piece on the (entire) front page, by Prof Kumaravel from the Centre for Religious Research, on the concept of omnipresence, and why being omnipresent was impossible for mortals. The good professor had not even bothered mentioning Thiruppathy in his entire essay. And Thiruppathy had not liked it. (It goes without saying that not a single chap who served in the Department, except for Inspector Sethu, read the piece. Sethu, of course, did not understand a word of it. The need for a crash course on omnipresence stands to this day).
 
-<span id="footnote-2">2. The last time Thiruppathy had been arrested, the focus had been entirely on omnipresence and the Department. The Press Daily ran an opinion piece on the (entire) front page, by Prof Kumaravel from the Centre for Religious Research, on the concept of omnipresence, and why being omnipresent was impossible for mortals. The good professor had not even bothered mentioning Thiruppathy in his entire essay. And Thiruppathy had not liked it. (It goes without saying that not a single chap who served in the Department, except for Inspector Sethu, read the piece. Sethu, of course, did not understand a word of it. The need for a crash course on omnipresence stands to this day).
+[^3]: The interest rate specified by Thiruppathy. It depended entirely on Thiruppathy’s mood. 
 
-<span id="footnote-3">3. The interest rate specified by Thiruppathy. It depended entirely on Thiruppathy’s mood. 
+[^4]: Weekly reminders included unspecified acts of violence.
 
-<span id="footnote-4">4. Weekly reminders included unspecified acts of violence.
-
-<span id="footnote-5">5. Lentil fritters, Indian style. 
+[^5]: Lentil fritters, Indian style. 
