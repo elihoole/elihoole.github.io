@@ -1,6 +1,5 @@
 # The Murder of Doctor Brains
 
-Contents
 
 - [The Murder of Doctor Brains](#the-murder-of-doctor-brains)
   - [Chapter 1: Three Men, Three Missions](#chapter-1-three-men-three-missions)
