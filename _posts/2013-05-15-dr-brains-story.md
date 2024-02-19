@@ -1,7 +1,7 @@
 # The Murder of Doctor Brains
 
-1. [Chapter 1] (## Chapter 1: Three Men, Three Missions)
-2. [Chapter 2] 
+Contents
+{:toc}
 
 ## Chapter 1: Three Men, Three Missions
 
