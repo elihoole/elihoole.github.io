@@ -1,12 +1,12 @@
 # The Enduring Relevance of Puthiyathor Ulagam
 
 - [The Enduring Relevance of Puthiyathor Ulagam](#the-enduring-relevance-of-puthiyathor-ulagam)
-- [Part I](#part-i)
-  - [Part II](#part-ii)
-  - [Part III](#part-iii)
+  - [Part I: A brave new world](#part-i-a-brave-new-world)
+  - [Part II: its inhabitants](#part-ii-its-inhabitants)
+  - [Part III: its politics](#part-iii-its-politics)
 
 
-# Part I
+## Part I: A brave new world
 
 When Govinthan penned Puthiyathor Ulagam (A New World) in 1985, the intelligence wing of a Tamil militant group was hunting for him across Tamil Nadu.
 
@@ -18,7 +18,7 @@ Soon after the publication of the novel the LTTE moved to wrestle control over t
 
 On the 17th of May 1991, the LTTE arrested Govinthan in Jaffna. He was never seen again.
 
-## Part II
+## Part II: its inhabitants
 
 Puthiyathor Ulagam revolves around the lives of protagonist Shankar, his friend Nathan, and fiancé Nirmala.
 
@@ -28,7 +28,7 @@ In Jaffna, Nathan is caught between diverging loyalties. Between the military an
 
 Nirmala awaits the return of Shankar. Her family captures the travails of the Jaffna middle-class of the time. Her parents seek a groom from an affluent family and Shankar does not quite fit the bill. Nirmala’s elder brother, a university student, becomes involved with the LTTE and is arrested by the Sri Lankan Army. Nirmala herself wants to join PLOTE. For her, and other female members of Tamil militant groups, the struggle holds more than one incentive. For them, the armed struggle for Eelam is as much about Tamil rights as it is about women’s emancipation.
 
-## Part III
+## Part III: its politics 
 
 Govinthan contrasts hope against despair, the Tamil youth’s yearning for liberation against Tamil leaders’ arrogance, selfishness and their zest for power, and the reformist group’s idealism and their penchant for grassroots level political mobilisation against the intelligence wing operatives’ love of violence and contempt for political education. Puthiyathor Ulagam oscillates between these extremes – sketching a tragic and ultimately damning portrayal of the Tamil militant struggle in its budding days.
 
