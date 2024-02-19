@@ -31,7 +31,7 @@ For that he first needed to fix his imaginary brain disorder (since Sethu's brai
 
 Inspector Sethu was desperate to make his first arrest.
 
-*
+<center>*</center>
 
 Dr. Brains Welcome held a PhD (Permanent Head Damage) in Mental Disorders, from the University of Lunatics and Mentalness, Colombo. Yet, when the infamous Inspector informed that he was coming in for psychiatric treatment, Brains was not pleased. 
 
@@ -56,6 +56,7 @@ Dr. Brains was tired of his life. There simply was no way he was going to be abl
 The doctor wanted to get killed. 
 
 That way he would have the last laugh [^1].
+
 
 <center>*</center>
 
@@ -126,7 +127,7 @@ After walking here and there for a while, the Inspector concluded that the matte
 
 Inspector Sethu and Constable Vendikkai left the office and slowly made their way towards No 21. Balls Street, Nallur, where Dr. Brains lived. In walking slowly, the two officers were consciously obeying The First Law of dealing with a crime: an officer must arrive at the crime scene moments later.
 
-*
+<center>*</center>
 
 For a man who was about to die in the next thirty-minutes, Doctor Brains was unusually calm. 
 
@@ -194,7 +195,7 @@ Everyone was confused, except for Miss Lisa. Unperturbed by the sudden changes i
 
 The inspector, the doctor and the criminal came to a mutual understanding without even uttering a word. They decided to forget everything that had happened in the last hour. That way at least the confusion would cease. 
 
-*
+<center>*</center>
 
 In the Town Centre, Chemist Krishnamoorthy’s frustration was growing with time. His last bottle of ‘Purpling Liquid’ was missing and he needed it badly. He racked his brain for information. He was certain that he had left the last bottle on the top shelf when he cleaned the store last Sunday. Now it was not there. 
 
@@ -204,7 +205,7 @@ A tube light came to life inside his head, after a long and harrowing thirty min
 
 Did I give Brains the wrong bottle, when he asked for the lethal solution? 
 
-*
+<center>*</center>
 
 Up in the Good Skies . . . 
 
@@ -215,7 +216,7 @@ Down in the Dark Pit . . .
 Unusually, the Master of Eternal Fire was happy too. The last thing he needed was Thiruppathy Thangathurai knocking on his gate. In his realm the population growth was fast getting out of hand. 
 
   <center>- The End -</center>
-<span id="footnote-1">1. According to The City Belief System, committing a murder got you so close to the Dark Pit you could almost feel the heat. Thiruppathy Thangathurai couldn’t have cared less.</span>
+[^1]: According to The City Belief System, committing a murder got you so close to the Dark Pit you could almost feel the heat. Thiruppathy Thangathurai couldn’t have cared less.
 
 
 <span id="footnote-2">2. The last time Thiruppathy had been arrested, the focus had been entirely on omnipresence and the Department. The Press Daily ran an opinion piece on the (entire) front page, by Prof Kumaravel from the Centre for Religious Research, on the concept of omnipresence, and why being omnipresent was impossible for mortals. The good professor had not even bothered mentioning Thiruppathy in his entire essay. And Thiruppathy had not liked it. (It goes without saying that not a single chap who served in the Department, except for Inspector Sethu, read the piece. Sethu, of course, did not understand a word of it. The need for a crash course on omnipresence stands to this day).
