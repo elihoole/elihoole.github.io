@@ -35,7 +35,7 @@ Third, for established political parties so used to the Proportional Representat
 
 There may, of course, be more to the story. But, to focus entirely on the TNA’s diminishing returns, however, would be to miss perhaps a far more significant reality.
 
-![Combined votes won by the TNA, the TNPF and the TULF](../images/splintering-vote.jpg)
+[Combined votes won by the TNA, the TNPF and the TULF][def]
 
 This message was not lost on the shrewdest Sri Lankan politician of his time: former President Mahinda Rajapaksa. In a press conference following his party’s resounding electoral victory, Rajapaksa pronounced that ‘Eelam has shrunk’. An analysis of the percentage drop in votes won by Tamil nationalist parties – the TNA, the TNPF, and the TULF – in the north-east between the General Election of 2015 and the Local Authorities Election of 2018 confirms Rajapaksa’s crude (and racist) quip. [See graph for details] In short, in each of Kilinochchi, Mannar, and Mullaitivu districts – or, in Vanni, to be concise – the share of votes won by Tamil nationalist parties fell by 20 percent or more. The figures for the Northern Province and the Eastern Province are 8 percent and 10 percent respectively.
 
@@ -48,3 +48,5 @@ The TMVP, on the other hand, centers its politics on the regional disparities be
 The Local Authorities Elections results then, above all else, signify the diminishing power of Tamil nationalism as the great unifier and homogeniser of the Tamil people. Diverging regional concerns, religious differences, caste and class divisions, as well as economic disparities now animate Tamil politics more so than they have in the last 40 years.
 
 But, for those in the South, to understand the foregoing analysis as a reassuring sign would be a grave mistake: further inaction on urgent Tamil political concerns – an acceptable political solution, demilitarisation, the release of political prisoners and land, and justice for war victims – would only intensify the fragmentation along the violent Tamil nationalist axis the TNPF represents. With access to diaspora funding and control of the Tamil media, the TNPF is more than capable of causing severe injury, to both, the Tamil youth in its ranks and the country at large. Preventing such decay rests on the TNA as much as it does on the Government.
+
+[def]: ../images/splintering-vote.jpg
