@@ -1,2 +1,21 @@
 # Prompts and humanity 
 
+What happens to human endeavours when AI takes over? 
+
+Former chess world champion Garry Kasparov, reflecting on how brute-force search algorithms routinely beat chess grandmasters, declares in his memoir Deep Thinking (2017), “chess just isn’t complex enough”.
+
+Interacting with generative AI tools like ChatGPT and Bard often force upon me a similar contemplation. When a stochastic parrot codes better than I do, where does that leave me as a software engineer? Is coding, as an intellectual exercise, just not complex enough? Or is it that I am, in fact, a stochastic parrot… just worse than ChatGPT?
+
+The boundary between human and computer cognitive capabilities has blurred considerably in the past six months. Creativity, across domains, no longer appears a uniquely human attribute. ChatGPT is arguably already better than its human counterparts at corporate and NGO consulting, a specialised creative writing enterprise if we are being honest. An AI generated song using the cloned voices of Drake and The Weekend garnered 8.5 million-plus views on TikTok. It will not be long before we see an AI system write and visualise a feature length film. Sure, the mechanism through which ChatGPT writes a story is different to how a human would write; but if the final form is compelling, should the process really matter?
+
+There is perhaps a broader truth to Kasparov’s reflection: activities in which we typically judge one’s intellectual ability may not be so complex after all. The bigger problem, however, may be that we overvalue intelligence. Take, for instance, this remark from Max Tegmark, a renowned physicist attached to the Massachusetts Institute of Technology: “Everything we love about civilisation is a product of intelligence, so amplifying our human intelligence with artificial intelligence has the potential of helping civilisation flourish like never before.” But, is not civilisation equally a product of labour? Would we have got this far without the builders, the farmers, the cleaners, and the factory workers?
+
+As the core responsibility of the knowledge worker shifts from creation to discrimination, it is worth asking what becomes of a man who merely discriminates over a set of AI outputs? The effects are clear in my own line of work. With GitHub Copilot, an AI-pair programmer, I am certainly a lot more productive. Without Copilot, I was much slower; but my process involved a lot more deliberation and personal learning. Whereas in the past I would consider a number of different proposed solutions to a requirement and think through them before settling on one, I now simply issue high-level instructions to Copilot.
+
+Similarly, writing is a form of thinking. If we merely edit ChatGPT text outputs to our taste, is that the same as writing? When we edit, we engage in a very different form of thinking compared to when we compose an essay from scratch.
+
+It takes five to ten thousand people to make a Marvel movie today. The same scale of production might be possible with only 50 to 100 artists (or, more accurately, prompters) once an AI film generator enters the scene. We might get a better viewing experience than Disney’s endless and, quite frankly, horrendous string of live action remakes but what becomes of artistic collaboration in such a setting?
+
+When asked what it takes to be an artist in the age of AI, music producer David Guetta responded, “Nothing is going to replace taste. What defines an artist is, you have a certain taste, you have a certain type of emotion you want to express, and you’re going to use all the modern instruments to do that.” My sense is that Guetta and others of his persuasion underestimate just how much initial AI outputs shape the final version of a piece of art and indeed taste itself.
+
+We anthropomorphise machines and mechanise human beings. The chat interfaces through which we interact with large language models have us thanking, pleading with, and apologising to what are, ultimately, electric voltage fluctuations in servers. On the other hand, we measure human beings by their output, efficiency, and productivity. As generative AI tools become ubiquitous, they offer us a fresh opportunity to reconsider our humanness.
