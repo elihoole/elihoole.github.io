@@ -1,6 +1,6 @@
-# The boat woman of Ponniyin Selvan
+# The Boat Woman of Ponniyin Selvan
 
-- [The boat woman of Ponniyin Selvan](#the-boat-woman-of-ponniyin-selvan)
+- [The Boat Woman of Ponniyin Selvan](#the-boat-woman-of-ponniyin-selvan)
 - [Shifting geographies](#shifting-geographies)
 - [Strait lines](#strait-lines)
 - [When everything was pure](#when-everything-was-pure)
