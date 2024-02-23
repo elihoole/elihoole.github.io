@@ -1,13 +1,13 @@
-# The Murder of Doctor Brains
+# The murder of doctor brains
 
 
-- [The Murder of Doctor Brains](#the-murder-of-doctor-brains)
-  - [Chapter 1: Three Men, Three Missions](#chapter-1-three-men-three-missions)
-  - [Chapter 2: Preparation Time](#chapter-2-preparation-time)
-  - [Chapter 3: The Crime](#chapter-3-the-crime)
+- [The murder of doctor brains](#the-murder-of-doctor-brains)
+  - [Chapter 1: three men, three Missions](#chapter-1-three-men-three-missions)
+  - [Chapter 2: the preparation](#chapter-2-the-preparation)
+  - [Chapter 3: the crime](#chapter-3-the-crime)
 
 
-## Chapter 1: Three Men, Three Missions
+## Chapter 1: three men, three Missions
 
 Inspector Sethu Raviraman had many regrets. Foremost, he regretted being a police officer. 
 
@@ -92,8 +92,7 @@ In Nallur, one did not simply commit a crime without notifying The Press Daily.
 
 The notorious criminal was desperate to get arrested . . . properly.
 
-## Chapter 2: Preparation Time
-
+## Chapter 2: the preparation 
 The evidence assembled by Sethu’s men, instead of serving to explain the crime, lead to more confusion. The Inspector was not angry about it. If he were to be angry at the incompetence of his men, he would be angry twenty-four-seven-three-hundred-and-sixty-five-till-his-retirement. Thus, not being angry was Sethu’s default option. He understood this better than anyone else. 
 
 He had taught himself to expect nothing more than incompetence from his men. And that worked for everyone's good. 
@@ -163,7 +162,7 @@ Upon reaching Doctor Brains’ shack of a mansion, Thiruppathy set-off a bundle 
 
 Hiding behind a curtain was Miss Lisa Penholder, the senior journalist for The Press Daily. She took out her DSLR camera and began clicking high quality shots for tomorrow’s lead story. 
 
-## Chapter 3: The Crime
+## Chapter 3: the crime
 
 Inspector Sethu and Constable Vendikkai started rushing in the direction of Doctor Brains’ house when they heard the explosion. The crime had been committed and it was time to arrive at the scene. 
 

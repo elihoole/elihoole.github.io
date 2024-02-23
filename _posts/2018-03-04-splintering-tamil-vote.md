@@ -1,4 +1,4 @@
-# Splintering Tamil Vote: a Post-mortem Report
+# Splintering Tamil vote: a post-mortem Report
 
 
 Even though the Tamil National Alliance (TNA) finished as the single largest Tamil political party and won the second highest number of local councils nationally, the recent Local Authorities Elections marked a decisive low point in the party’s history.

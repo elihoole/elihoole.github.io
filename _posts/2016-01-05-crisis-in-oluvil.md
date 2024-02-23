@@ -3,12 +3,12 @@
 The perils of politicisation, desultory policies, and privatisation
 
 - [Crisis in Oluvil](#crisis-in-oluvil)
-  - [The Makings of the Oluvil Misadventure: A Case Study in State Negligence](#the-makings-of-the-oluvil-misadventure-a-case-study-in-state-negligence)
-  - [In the Name of Expansion](#in-the-name-of-expansion)
-  - [Privatisation that Threatens the Peripheries: Winners and Losers](#privatisation-that-threatens-the-peripheries-winners-and-losers)
+  - [The makings of the Oluvil misadventure: a case study in state negligence](#the-makings-of-the-oluvil-misadventure-a-case-study-in-state-negligence)
+  - [In the name of expansion](#in-the-name-of-expansion)
+  - [Privatisation that threatens the peripheries: winners and losers](#privatisation-that-threatens-the-peripheries-winners-and-losers)
   - [Student Action, Special Measures, and Lessons for the Future](#student-action-special-measures-and-lessons-for-the-future)
 
-## The Makings of the Oluvil Misadventure: A Case Study in State Negligence
+## The makings of the Oluvil misadventure: a case study in state negligence
 
 Following the Z-score fiasco of 2011, the government hurriedly opened up an engineering faculty in the South Eastern University of Sri Lanka (SEUSL), Oluvil, to absorb an additional hundred engineering students. In the subsequent years, two more batches joined the faculty without improvements in human or physical resources to render it commensurate with established engineering faculties.
 
@@ -46,7 +46,7 @@ Here in Sri Lanka, as we are breeding new faculties on the back of institutional
 
 As with the technology stream in the advanced level, employability seems to be the only concern when introducing new degree programmes. The accompanying corollary is the degrading of the pure sciences and humanities – which are deemed less important because of their relatively dim job prospects. What indeed is the country’s vision for higher education? The rhetoric of becoming a knowledge hub rings hollow in the face of arbitrary and short-sighted educational policies and ad-hoc institutional practices.
 
-## In the Name of Expansion
+## In the name of expansion
 
 Improving the access to university education is a major theme in the country’s discourse on education. Currently, less than 20% of the students who meet the minimum requirements for university entrance are enrolled in state universities every year: this is around 10% of those who sit for advanced level examinations. Underlying this expansion drive, however, is the not-so-subtle privatisation of higher education.
 
@@ -56,7 +56,7 @@ Contrast these conditions with the developments in the private higher education 
 
 The National School of Business Management (NSBM) – a private institute offering foreign university degrees in management, computing, and engineering – is building a massive campus facility called the Green University in Homagama, capable of accommodating 30,000 students at a time. The Green University project will be completed in the next two years and NSBM plans to offer around 100 degree programmes in the near future. The Sri Lanka Institute of Information and Technology (SLIIT) alone has a student population exceeding 7000. In the next few years, the number of engineering graduates passing out from private engineering colleges such as SLIIT, the British College of Applied Studies (BCAS), and the International College of Business and Technology (ICBT) would be considerably higher than all the state engineering faculties combined. The medical faculty of the South Asia Institute of Technology and Medicine (SAITM) started in 2009 with 25 students. Today, in the space of six years, SAITM’s medical student population has grown to 800: twice the size of the University of Jaffna’s medical faculty which was established in 1978.
 
-## Privatisation that Threatens the Peripheries: Winners and Losers
+## Privatisation that threatens the peripheries: winners and losers
 
 When authorities view education as a commodity and a means for generating revenue, frequently for cronies, their allegiance is with private education. This goes to the heart of the problems pertaining to state education in the country.
 

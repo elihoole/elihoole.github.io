@@ -1,6 +1,6 @@
-# Sri Lankan Youth and their New Discontents
+# Sri Lankan youth and their new discontents
 
-- [Sri Lankan Youth and their New Discontents](#sri-lankan-youth-and-their-new-discontents)
+- [Sri Lankan youth and their new discontents](#sri-lankan-youth-and-their-new-discontents)
   - [Illusions of self-expansion](#illusions-of-self-expansion)
   - [Dreams of splendour](#dreams-of-splendour)
   - [Deceptions of reform](#deceptions-of-reform)

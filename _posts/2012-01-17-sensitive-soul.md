@@ -1,6 +1,6 @@
-# The Life and Times of Herbert Sundarampillai 
+# The life and times of Herbert Sundarampillai 
 
-- [The Life and Times of Herbert Sundarampillai](#the-life-and-times-of-herbert-sundarampillai)
+- [The life and times of Herbert Sundarampillai](#the-life-and-times-of-herbert-sundarampillai)
   - [Chapter 1: Clouds](#chapter-1-clouds)
   - [Chapter 2: Thunder](#chapter-2-thunder)
   - [Chapter 3: Lightning](#chapter-3-lightning)

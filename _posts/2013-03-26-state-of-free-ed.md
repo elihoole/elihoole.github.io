@@ -1,4 +1,4 @@
-# The State of the Free Education System in Sri Lanka: Confessions of a Disgruntled Student
+# The state of the free education system in Sri Lanka: confessions of a disgruntled student
 
 I am one of the 243,876 lucky students who sat for the Advanced Level Examinations in 2011. It has been almost one-and-a-half-years since then, and I received my university registration form only yesterday (6 – 4 – 2012). I was privileged enough to receive A/L results four times in the space of ten months. For this, I am eternally indebted to the Examinations Department. The possibilities for further delay, once I start university are endless: the FUTA might decide to call for another trade union action; minor-staff may decide their wages are insufficient; fellow students may decide to oppose private universities by boycotting classes; and so on. The thought of how old I will be when I graduate is not entertaining[^1].
 

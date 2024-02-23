@@ -1,6 +1,6 @@
-# The Enduring Relevance of Puthiyathor Ulagam
+# The enduring relevance of Puthiyathor Ulagam
 
-- [The Enduring Relevance of Puthiyathor Ulagam](#the-enduring-relevance-of-puthiyathor-ulagam)
+- [The enduring relevance of Puthiyathor Ulagam](#the-enduring-relevance-of-puthiyathor-ulagam)
   - [Part I: a new world](#part-i-a-new-world)
   - [Part II: its inhabitants](#part-ii-its-inhabitants)
   - [Part III: its politics](#part-iii-its-politics)

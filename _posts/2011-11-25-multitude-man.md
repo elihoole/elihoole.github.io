@@ -1,4 +1,4 @@
-# The Multitude Man 
+# The multitude man 
 I load my luggage on the back seat before finding a supposed-to-be-comfortable corner seat in the Mannar-Vavuniya bus. Lush green paddy fields, birds and bulls decorate either side of the A14 highway. The November climate and the beauty of nature combine to obliterate all my mental stress. I plug in my ear phones, close my eyes and take a deep breath.
 
 _________________________________________

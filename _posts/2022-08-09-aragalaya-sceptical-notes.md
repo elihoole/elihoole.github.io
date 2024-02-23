@@ -1,6 +1,6 @@
-# The Aragalaya: a Sceptic’s Notes
+# The Aragalaya: a sceptic’s notes
 
-- [The Aragalaya: a Sceptic’s Notes](#the-aragalaya-a-sceptics-notes)
+- [The Aragalaya: a sceptic’s notes](#the-aragalaya-a-sceptics-notes)
   - [Myth #1: The Aragalaya is an exceptional event](#myth-1-the-aragalaya-is-an-exceptional-event)
   - [Myth #2: The Aragalaya represents a constitutional moment](#myth-2-the-aragalaya-represents-a-constitutional-moment)
   - [Myth #3: The Aragalaya got rid of the Rajapaksas](#myth-3-the-aragalaya-got-rid-of-the-rajapaksas)
