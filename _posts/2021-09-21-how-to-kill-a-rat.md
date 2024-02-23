@@ -1,6 +1,6 @@
-# How to Kill a Rat
+# How to kill a rat
 
-Chronicles of a postmodern Pied Piper
+## Chronicles of a postmodern Pied Piper
 
 “Rats are the lowliest and most despised of all creatures, my love. If they have a purpose, so do we.” — Suicide Squad (2021)
 
