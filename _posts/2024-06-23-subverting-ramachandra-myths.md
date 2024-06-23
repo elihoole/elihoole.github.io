@@ -6,10 +6,10 @@ I am now publishing an updated version of what I had drafted last December follo
 
 - [Subverting Ramachandra Myths](#subverting-ramachandra-myths)
   - [Ramachandra does not read the sources he quotes](#ramachandra-does-not-read-the-sources-he-quotes)
-  - [Ramachandra is unfamiliar with the text of the ICJ ruling](#ramachandra-is-unfamiliar-with-the-text-of-the-icj-ruling)
   - [Ramachandra has a thin grasp of facts on the Israeli-Palestinian conflict](#ramachandra-has-a-thin-grasp-of-facts-on-the-israeli-palestinian-conflict)
   - [Ramachandra white washes Hamas’ atrocities](#ramachandra-white-washes-hamas-atrocities)
-  - [Ramachandra lazily delinks Islamic terror from Islam](#ramachandra-lazily-delinks-islamic-terror-from-islam)
+  - [Ramachandra delinks Islamic terror from Islam](#ramachandra-delinks-islamic-terror-from-islam)
+  - [Ramachandra is unfamiliar with the text of the ICJ ruling](#ramachandra-is-unfamiliar-with-the-text-of-the-icj-ruling)
 
 
 ## Ramachandra does not read the sources he quotes 
@@ -17,16 +17,6 @@ I am now publishing an updated version of what I had drafted last December follo
 At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary historical authorities corroborating his particular narrative. These two historians hold fundamentally divergent views. For instance, while Pappé wrote an entire book characterising the events of 1948 as ethnic cleansing, Morris does not share this view. In fact, Morris describes Pappé’s book, The Ethnic Cleansing of Palestine, as being riddled with “distortions, large and small” on “almost every page” and credits Pappé with “polluting Middle Eastern historiography and poisoning the minds of those who superficially dabble in it.”[^1] One might be forgiven for thinking that the latter part of Morris' critique is directed at Ramachandra himself.
 
 Speaking of sources, Ramachandra  unreservedly commended Al Jazeera to the audience as the credible news platform to follow on the Israel-Palestine conflict. Notwithstanding the fact that Al Jazeera is a Qatari state-funded media organisation and is headquartered in the same city where the same state houses Hamas’ top brass. I suggest that Ramachandra dusts up his nuclear engineering textbooks to fact-check this Al Jazeera piece which, among other things, equates mass and energy to assert that Israel dropped the equivalent of two atom bombs on Gaza.
-
-## Ramachandra is unfamiliar with the text of the ICJ ruling 
-
-I will now address the misrepresentation of the ICJ ruling dated 26 January 2024 in the open letter Ramachandra circulated. The ICJ did not identify genocide or ethnic cleansing as the letter claims. In fact, it could not have done so, as the court did not evaluate the merits of South Africa’s allegations during the provisional measures phase:
-
-“At the present stage of the proceedings, the Court is not required to ascertain whether any violations of Israel’s obligations under the Genocide Convention have occurred. Such a finding could be made by the Court only at the stage of the examination of the merits of the present case.” (paragraph #30)
-
-The court instead considered whether the rights asserted by South Africa—specifically, the right of Palestinians “to be protected from acts of genocide, attempted genocide, direct and public incitement to commit genocide, complicity in genocide, and conspiracy to commit genocide” (paragraph #37)—are plausible. The word “plausible” appears 15 times in the decision text, always in the context of “rights asserted by South Africa,” never in the context of “genocide” or “ethnic cleansing.” In fact, the term “ethnic cleansing” does not appear at all in the decision text. Moreover, it is instructive that the court did not order a ceasefire as South Africa had requested. Instead, it instructed Israel to comply with the Genocide Convention, which Israel is already obligated to do as a party to the convention. If the court did find plausible genocide, as Ramachandra claims, is it not unusual that it did not order an immediate ceasefire? Keep in mind also that the ICJ is capable of ordering such a ceasefire as it did against Russia in March 2022. 
-
-Ramachandra appears unfamiliar with the actual text of the decision as he provided three third-party links interpreting the decision to say what he believes it says when I challenged him on the letter. But the text is quite explicit about what it found to be plausible which has since been clarified beyond reasonable doubt by the former president of the ICJ who presided over the hearing.
 
 ## Ramachandra has a thin grasp of facts on the Israeli-Palestinian conflict  
 
@@ -68,9 +58,9 @@ Could Ramachandra elaborate under what context the purposeful massacre of civili
 
 Not only did Ramachandra characterise Hamas’ terror as inevitable he also ascribed an (noble) objective to the terror.  Ramachandra suggested that the attacks aimed to free Palestinian prisoners in Israeli captivity. Hamas, on the other hand, is clear that the purpose of the attack was to liberate the Al Aqsa mosque. Ramachandra also suggested that Hamas's foundational goal of eradicating the Jewish state is merely political rhetoric and not an objective the movement actively pursues. Statements from high ranking Hamas officials, since October 7, beg to differ. Ramachandra has to explain why he feels so comfortable speaking on behalf of Hamas, often contradicting what Hamas itself says about its actions and intentions, in public fora. 
 
-## Ramachandra lazily delinks Islamic terror from Islam
+## Ramachandra delinks Islamic terror from Islam
 
-Since Ramachandra readily blames some theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long intellectual history of de-linking Islamic terrorism from Islam. For instance, in the "Myths of Terrorism" chapter in Subverting Global Myths, Ramachandra writes:
+Since Ramachandra readily blames some theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long and unfortunate intellectual history of lazily de-linking Islamic terrorism from Islam. For instance, in the "Myths of Terrorism" chapter in Subverting Global Myths, Ramachandra writes:
 
 “The American taxpayer was also funding the vigorous program of Islamization by Pakistani Islamists among the millions of refugees in Peshawar and the tribal trust territories. Pamphlets with Quranic texts were distributed in the madrasas (religious schools), reviving the interpretation of jihad as holy war against the enemies of Islam, an idea that had largely lain dormant for centuries.”
 
@@ -93,5 +83,15 @@ Moreover, it would be a mistake to think that the Islamic dimension of the Pales
 There is much more that I can say on this topic but what I have laid out is sufficient to ask Ramachandra the following question: does the foregoing point to there being some link between Islamic theology, at least strands of it, and the Palestinian national struggle, or is all of this mere coincidence? 
 It's remarkable that for 20 years, Ramachandra has blamed 'Christian Zionists' for the Israel-Palestine conflict while simultaneously refusing to consider Islam’s role in it. That is not the mark of a serious, objective scholar. 
 
-[^1]: The liar as hero, Benny Morris: https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian 
+## Ramachandra is unfamiliar with the text of the ICJ ruling 
+
+I will now address the misrepresentation of the ICJ ruling dated 26 January 2024 in the open letter Ramachandra circulated. The ICJ did not identify genocide or ethnic cleansing as the letter claims. In fact, it could not have done so, as the court did not evaluate the merits of South Africa’s allegations during the provisional measures phase:
+
+“At the present stage of the proceedings, the Court is not required to ascertain whether any violations of Israel’s obligations under the Genocide Convention have occurred. Such a finding could be made by the Court only at the stage of the examination of the merits of the present case.” (paragraph #30)
+
+The court instead considered whether the rights asserted by South Africa—specifically, the right of Palestinians “to be protected from acts of genocide, attempted genocide, direct and public incitement to commit genocide, complicity in genocide, and conspiracy to commit genocide” (paragraph #37)—are plausible. The word “plausible” appears 15 times in the decision text, always in the context of “rights asserted by South Africa,” never in the context of “genocide” or “ethnic cleansing.” In fact, the term “ethnic cleansing” does not appear at all in the decision text. Moreover, it is instructive that the court did not order a ceasefire as South Africa had requested. Instead, it instructed Israel to comply with the Genocide Convention, which Israel is already obligated to do as a party to the convention. If the court did find plausible genocide, as Ramachandra claims, is it not unusual that it did not order an immediate ceasefire? Keep in mind also that the ICJ is capable of ordering such a ceasefire as it did against Russia in March 2022. 
+
+Ramachandra appears unfamiliar with the actual text of the decision as he provided three third-party links interpreting the decision to say what he believes it says when I challenged him on the letter. But the text is quite explicit about what it found to be plausible which has since been clarified beyond reasonable doubt by the former president of the ICJ who presided over the hearing.
+
+[^1]: The liar as hero, Benny Morris: [https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
 
