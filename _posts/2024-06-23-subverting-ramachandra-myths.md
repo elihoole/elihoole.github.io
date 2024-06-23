@@ -1,8 +1,8 @@
 # Subverting Ramachandra Myths
 
-On December 2, 2023, St Paul’s Church Milagiriya organised a public seminar on ‘Israel & the Church’. The main speaker at the event was Vinoth Ramachandra with whom I disagreed during the Q&A.  Ramachandra, in response, asked for my sources—at the event and subsequently via email. I did not send a response, despite drafting one, for reasons that I consider to be sound. 
+On December 2, 2023, St Paul’s Church Milagiriya organised a public seminar on ‘Israel & the Church’. The main speaker at the event was Vinoth Ramachandra with whom I disagreed during the Q&A.  Ramachandra, in response, asked for my sources—at the event and subsequently via email. Although I drafted a response, for reasons that I consider to be sound, I never sent it to him. 
 
-I am now publishing an updated version of what I had drafted last December following a more recent exchange with Ramachandra. My decision to put this on public record is informed by the absence of a credible challenge to Ramachandra’s position as an authority on Israeli history and the Israeli-Pastine conflict amongst the elite English-speaking, Colombo-living Christians. 
+On reflection following a recent email exchange with him, I am now publishing an updated version of what I wrote last December. My decision to put this on public record is informed by the absence of a credible challenge to Ramachandra’s position as an authority on Israeli history and the Israeli-Pastine conflict amongst the elite English-speaking, Colombo-living Christians. 
 
 - [Subverting Ramachandra Myths](#subverting-ramachandra-myths)
   - [Ramachandra does not read his own sources](#ramachandra-does-not-read-his-own-sources)
@@ -16,7 +16,7 @@ I am now publishing an updated version of what I had drafted last December follo
 
 ## Ramachandra does not read his own sources
 
-At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary historical authorities corroborating his particular narrative. These two historians hold fundamentally divergent views. For instance, while Pappé wrote an entire book characterising the events of 1948 as ethnic cleansing, Morris does not share this view. In fact, Morris describes Pappé’s book, *_The Ethnic Cleansing of Palestine_*, as being riddled with “distortions, large and small” on “almost every page” and credits Pappé with “polluting Middle Eastern historiography and poisoning the minds of those who superficially dabble in it.”[^1] One might be forgiven for thinking that the latter part of Morris' critique is directed at Ramachandra himself.
+At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary historical authorities corroborating his particular narrative. These two historians hold fundamentally divergent views. For instance, while Pappé wrote an entire book characterising the events of 1948 as ethnic cleansing, Morris does not share this view. In fact, Morris describes Pappé’s book, *The Ethnic Cleansing of Palestine*, as being riddled with “distortions, large and small” on “almost every page” and credits Pappé with “polluting Middle Eastern historiography and poisoning the minds of those who superficially dabble in it.”[^1] One might be forgiven for thinking that the latter part of Morris's critique is directed at Ramachandra himself.
 
 Speaking of sources, Ramachandra  unreservedly commended Al Jazeera to the audience as the credible news platform to follow on the Israel-Palestine conflict. Notwithstanding the fact that Al Jazeera is a Qatari state-funded media organisation and is headquartered in the same city where the same state houses Hamas’ top brass. I suggest that Ramachandra dusts up his nuclear engineering textbooks to fact-check this Al Jazeera piece [^2] which, among other things, equates mass and energy to assert that Israel dropped the equivalent of two atom bombs on Gaza.
 
@@ -60,7 +60,7 @@ Just three days after the brutal terror attack that Hamas perpetrated on October
 
 Could Ramachandra elaborate under what context the purposeful massacre of civilians, as well as mass rape and bodily mutilation of women, deserve anything but unreserved condemnation? Even granting the Al Jazeera article’s characterization of the ‘context,’ his response is certainly not “Christian”.  “Without necessarily condoning” – is that a serious stance? From where does he derive his ethics? 
 
-Not only did Ramachandra characterise Hamas’ terror as inevitable he also ascribed an (noble) objective to the terror.  Ramachandra suggested that the attacks aimed to free Palestinian prisoners in Israeli captivity. Hamas, on the other hand, is clear that the purpose of the attack was to liberate the Al Aqsa mosque. Ramachandra also suggested that Hamas's foundational goal of eradicating the Jewish state is merely political rhetoric and not an objective the movement actively pursues. Statements from high ranking Hamas officials, since October 7, beg to differ. Ramachandra has to explain why he feels so comfortable speaking on behalf of Hamas, often contradicting what Hamas itself says about its actions and intentions, in public fora. 
+Not only did Ramachandra characterise Hamas's terror as inevitable he also ascribed an (noble) objective to the terror.  Ramachandra suggested that the attacks aimed to free Palestinian prisoners in Israeli captivity. Hamas, on the other hand, is clear that the purpose of the attack was to liberate the Al Aqsa mosque. Ramachandra also suggested that Hamas's foundational goal of eradicating the Jewish state is merely political rhetoric and not an objective the movement actively pursues. Statements from high ranking Hamas officials, since October 7, beg to differ. Ramachandra has to explain why he feels so comfortable speaking on behalf of Hamas, often contradicting what Hamas itself says about its actions and intentions, in public fora. 
 
 ## Ramachandra delinks Islamic terror from Islam
 
@@ -86,7 +86,7 @@ Moreover, it would be a mistake to think that the Islamic dimension of the Pales
 
 There is much more that I can say on this topic but what I have laid out is sufficient to ask Ramachandra the following question: does the foregoing point to there being some link between Islamic theology, at least strands of it, and the Palestinian national struggle, or is all of this mere coincidence? 
 
-It's remarkable that for 20 years Ramachandra has blamed 'Christian Zionists' for the Israel-Palestine conflict while simultaneously refusing to consider Islam’s role in it. This is not the mark of a serious and objective scholar.  
+It is remarkable that for 20 years Ramachandra has blamed "Christian Zionists" for the Israel-Palestine conflict while simultaneously refusing to consider Islam’s role in it. This is not the mark of a serious and objective scholar.  
 
 ## Ramachandra is unfamiliar with the text of the ICJ ruling 
 
@@ -100,7 +100,7 @@ Ramachandra appears unfamiliar with the actual text of the decision but the text
 
 ## Conclusion
 
-To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) dabbles in antisemitic tropes; (iv) white washes Hamas' atrocities; (v) delinks Islamic terror from Islam without basis; and (vi) ill-informed about the source material he confidently opines on, such as in the case of the ICJ ruling. 
+To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) dabbles in antisemitic tropes; (iv) white washes Hamas's atrocities; (v) delinks Islamic terror from Islam without basis; and (vi) ill-informed about the source material he confidently opines on, such as in the case of the ICJ ruling. 
 
 
 [^1]: Benny Morris, "The Liar as Hero", [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
@@ -111,9 +111,7 @@ To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a th
 
 [^4]: ICJ, "Provisional Measures Order of 26 January 2024", [link](https://www.icj-cij.org/node/203447) 
 
-[^5]: BBC, "Former head of ICJ explains ruling on genocide case against Israel brought by S Africa", [link](https://www.bbc.com/news/av/world-middle-east-68906919) 
-
-I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.
+[^5]: BBC, "Former head of ICJ explains ruling on genocide case against Israel brought by S Africa", [link](https://www.bbc.com/news/av/world-middle-east-68906919) I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.
 
 [^6]: PLO, "The Palestine National Charter of 1964", [link](https://www.jewishvirtuallibrary.org/the-original-palestine-national-charter-1964) 
 
