@@ -104,8 +104,7 @@ Ramachandra appears unfamiliar with the actual text of the decision but the text
 
 [^4]: ICJ, "Provisional Measures Order of 26 January 2024", [link](https://www.icj-cij.org/node/203447) 
 
-[^5]: BBC, "Former head of ICJ explains ruling on genocide case against Israel brought by S Africa", [link] 
-(https://www.bbc.com/news/av/world-middle-east-68906919) I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.
+[^5]: BBC, "Former head of ICJ explains ruling on genocide case against Israel brought by S Africa", [link](https://www.bbc.com/news/av/world-middle-east-68906919) I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.
 
 [^6]: PLO, "The Palestine National Charter of 1964", [link](https://www.jewishvirtuallibrary.org/the-original-palestine-national-charter-1964) 
 
@@ -116,6 +115,17 @@ Ramachandra appears unfamiliar with the actual text of the decision but the text
 [^9]: Watch one of Ramachandra’s "primary sources", Benny Morris himself, from minute 41 onwards: [link](https://www.youtube.com/watch?v=wv8F4NLr4E0&ab_channel=ColemanHughes)
 
 [^10]: To borrow from Ramachandra’s language on Hamas’ October 7 attacks, [link](https://vinothramachandra.wordpress.com/2023/10/10/violence-and-myopia/) 
+
+[^11]: Adi Shwartz, "A Tragedy Shrouded in Silence: The Destruction of the Arab World's Jewry", [link](https://azure.org.il/include/print.php?id=581) 
+
+[^12]: UNESCO, "International Meeting of Experts on Further Study of the Concept of the Rights of Peoples, Paris, 1989", [link](https://unesdoc.unesco.org/search/N-EXPLORE-b176ae6a-672d-4767-8dbd-d5abf695fa2b) 
+
+
+[^13]: Haber, M. et al., "Genome-Wide Diversity in the Levant Reveals Recent Structuring by Culture", [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3585000/)
+
+[^14]: Behar, M.B., et al., "The genome-wide structure of the Jewish people" in *Nature*, [link](https://www.nature.com/articles/nature09103?fbclid=IwAR1GaBFW4InZMww66nf284C2acGVXZs9tY38Hjtt_frxAXffrZlwlyhD2IU)  
+
+[^15]: Ramachandra, "Towards a Self-Critical Church", [link](https://vinothramachandra.wordpress.com/2024/02/23/towards-a-self-critical-church/)
 
 [^16]: Ramachandra, "Violence and Myopia", [link](https://vinothramachandra.wordpress.com/2023/10/10/violence-and-myopia/)
 
