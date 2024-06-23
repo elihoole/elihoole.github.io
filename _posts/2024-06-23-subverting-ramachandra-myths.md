@@ -14,7 +14,7 @@ I am now publishing an updated version of what I had drafted last December follo
 
 ## Ramachandra does not read the sources he quotes 
 
-At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary historical authorities corroborating his particular narrative. These two historians hold fundamentally divergent views. For instance, while Pappé wrote an entire book characterising the events of 1948 as ethnic cleansing, Morris does not share this view. In fact, Morris describes Pappé’s book, The Ethnic Cleansing of Palestine, as being riddled with “distortions, large and small” on “almost every page” and credits Pappé with “polluting Middle Eastern historiography and poisoning the minds of those who superficially dabble in it.”[^1] One might be forgiven for thinking that the latter part of Morris' critique is directed at Ramachandra himself.
+At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary historical authorities corroborating his particular narrative. These two historians hold fundamentally divergent views. For instance, while Pappé wrote an entire book characterising the events of 1948 as ethnic cleansing, Morris does not share this view. In fact, Morris describes Pappé’s book, *_The Ethnic Cleansing of Palestine_*, as being riddled with “distortions, large and small” on “almost every page” and credits Pappé with “polluting Middle Eastern historiography and poisoning the minds of those who superficially dabble in it.”[^1] One might be forgiven for thinking that the latter part of Morris' critique is directed at Ramachandra himself.
 
 Speaking of sources, Ramachandra  unreservedly commended Al Jazeera to the audience as the credible news platform to follow on the Israel-Palestine conflict. Notwithstanding the fact that Al Jazeera is a Qatari state-funded media organisation and is headquartered in the same city where the same state houses Hamas’ top brass. I suggest that Ramachandra dusts up his nuclear engineering textbooks to fact-check this Al Jazeera piece [^2] which, among other things, equates mass and energy to assert that Israel dropped the equivalent of two atom bombs on Gaza.
 
@@ -22,15 +22,15 @@ Speaking of sources, Ramachandra  unreservedly commended Al Jazeera to the audie
 
 **PLO’s founding date and purpose**
 
-At the seminar, contradicting Ramachandra's assertion that the PLO was formed in 1970, I stated that the PLO was in fact launched in 1964. In a recent email Ramachandra claimed that his mistake was trivial brushing aside my correction as “not affecting any of (his) arguments”
+At the seminar, contradicting Ramachandra's assertion that the PLO was formed in 1970, I stated that the PLO was in fact launched in 1964. In a recent email Ramachandra claimed that this mistake was trivial, brushing aside my correction as “not affecting any of (his) arguments.”
 
 This is not so. At the event, he specifically claimed that the PLO was formed in 1970 to liberate Gaza and the West Bank from Israel, which had conquered those territories in the 1967 war. However, in 1964, the actual year of the PLO’s founding, the West Bank was occupied by Jordan and Gaza administered by Egypt. 
 
-In fact, Article 24 of the PLO’s founding charter explicitly declares that “the Organization does not exercise any regional sovereignty over the West Bank in the Hashemite Kingdom of Jordan, on the Gaza Strip, or the Himmah Area.” In other words, what the PLO meant by ‘liberating Palestine’ was liberating the lands under the territorial control of Israel as envisioned by the UN partition plan of 1948. Thus, Ramachandra was incorrect about both the date of—and the purpose behind—the formation of the PLO. To now trivialise such a grave error on his part is both disingenuous and unacceptable. 
+In fact, Article 24 of the PLO’s founding charter explicitly declares that “the Organization does not exercise any regional sovereignty over the West Bank in the Hashemite Kingdom of Jordan, on the Gaza Strip, or the Himmah Area.”[^6] In other words, what the PLO meant by ‘liberating Palestine’ was liberating the lands under the territorial control of Israel as envisioned by the UN partition plan of 1948. Thus, Ramachandra was incorrect about both the date of—and the purpose behind—the formation of the PLO. To now trivialise such a grave error on his part is both disingenuous and unacceptable. 
 
 **The Arab army was a ragtag group of volunteers**
 
-Contesting Ramachandra's claim that the invading Arab army of 1948 was a ragtag group of volunteers, I pointed to the air raids on Tel Aviv starting from May 14/15, 1948, a widely known historical fact. Had Ramachandra read Morris, he would have known that Egypt possessed the largest air force in the Arab world at that time. Additionally, Jordan’s Arab Legion, part of the pan-Arab army, was armed, trained, and commanded by British officers. The British were also actively involved in arming and training the Egyptian army for their Cold War strategies. These facts contradict Ramachandra's assertion that only Israeli forces received British training, while Arab forces did not.
+Contesting Ramachandra's claim that the invading Arab army of 1948 was a ragtag group of volunteers, I pointed to the air raids on Tel Aviv starting from May 14/15, 1948, a widely known historical fact. Had Ramachandra read Morris, he would have known that Egypt possessed the largest air force in the Arab world at that time.[^7] Additionally, Jordan’s Arab Legion, part of the pan-Arab army, was armed, trained, and commanded by British officers.[^8] The British were also actively involved in arming and training the Egyptian army for their Cold War strategies. These facts contradict Ramachandra's assertion that only Israeli forces received British training, while Arab forces did not.
 
 **The ethnic cleansing of Palestine**
 
@@ -68,7 +68,7 @@ Since Ramachandra readily blames some theologically motivated actions of Christi
 
 The “largely” in the final sentence tries to do some heavy lifting, but it ultimately cannot mask the fundamental inaccuracy of the statement. For example, just a century prior, in the 1800s, Islamic clerics Usman dan Fodio and later Umar Tal led the Fulani jihads in Western Africa and founded the Sokoto caliphate. Jihad as holy war against the enemies of Islam never needed “reviving”. Instances of jihad as wars of conquest against non-Islamic peoples can be traced back to Mohammed himself, with multiple episodes in each century since his time. Mainstream Islamic theology was also never in confusion about what jihad means. One can, for instance, read through every reference to jihad in  the hadiths in the Bukhari collection which is considered to be “the most authentic collection of the teachings and sayings of Prophet Mohammed.” The same is true within Sharia legal traditions.
 
-The repeated refrain of Hamas terrorists and citizens of Gaza who attacked Israeli settlements on October 7 was “Allahu Akbar” and not “Fillasteen hurra” (Free Palestine). The global Ummah singularly obsesses over the Israeli-Palestinian war while numerous other recent wars, in the Middle East and elsewhere, have killed far more people, primarily Muslims. Muslims in London, New York, and Sydney chant “Khaybar Khaybar ya yahud, jaish Muhammad soufa ya'oud” (Khaybar Khaybar oh Jews, the army of Muhammad will return) in rallies for Palestine that Ramachandra encouraged his blog readers to join. Posters at these rallies displayed Mohammed’s words: “The Jews will fight against you and you will gain victory over them, till the stone says: ‘O Muslim! There is a Jew hiding behind me; so kill him.” These words also appear in Article 7 of Hamas’ founding charter. Clerics in several mosques in the UK, after October 7, preached messages inciting violence against Jews.
+The repeated refrain of Hamas terrorists and citizens of Gaza who attacked Israeli settlements on October 7 was “Allahu Akbar” and not “Fillasteen hurra” (Free Palestine). The Ummah singularly obsesses over the Israeli-Palestinian war while numerous other recent wars, in the Middle East and elsewhere, have killed far more people, primarily Muslims. Muslims in London, New York, and Sydney chant “Khaybar Khaybar ya yahud, jaish Muhammad soufa ya'oud” (Khaybar Khaybar oh Jews, the army of Muhammad will return) in rallies for Palestine that Ramachandra encouraged his blog readers to join. Posters at these rallies displayed Mohammed’s words: “The Jews will fight against you and you will gain victory over them, till the stone says: ‘O Muslim! There is a Jew hiding behind me; so kill him.” These words also appear in Article 7 of Hamas’ founding charter. Clerics in several mosques in the UK, after October 7, preached messages inciting violence against Jews.
 
 The most potent political force in Palestinian politics for the past 25 years is Hamas, and it explicitly states that it is a jihadist movement. A glance at Hamas’ founding charter is instructive:
 
@@ -83,26 +83,33 @@ The most potent political force in Palestinian politics for the past 25 years is
 Moreover, it would be a mistake to think that the Islamic dimension of the Palestinian struggle is a recent evolution and that such a religious character was absent in the early days. Izz ad-Din al-Qassam, after whom the military wing of Hamas is named, was an Islamic preacher who fought against British and Jewish forces in the 1930s. There is also the history of Hajj Amin al-Husayni, the exiled grand mufti of Jerusalem, who sought collaboration with Nazi Germany. The Palestinian struggle, since its inception, has shared a very close relationship with Islam and many of its principal characters were Islamic preachers or leaders who drew deeply from Islamic teachings. 
 
 There is much more that I can say on this topic but what I have laid out is sufficient to ask Ramachandra the following question: does the foregoing point to there being some link between Islamic theology, at least strands of it, and the Palestinian national struggle, or is all of this mere coincidence? 
-It's remarkable that for 20 years, Ramachandra has blamed 'Christian Zionists' for the Israel-Palestine conflict while simultaneously refusing to consider Islam’s role in it. That is not the mark of a serious, objective scholar. 
+
+It's remarkable that for 20 years, Ramachandra has blamed 'Christian Zionists' for the Israel-Palestine conflict while simultaneously refusing to consider Islam’s role in it. Is this the mark of a serious, objective scholar? 
 
 ## Ramachandra is unfamiliar with the text of the ICJ ruling 
 
-I will now address the misrepresentation of the ICJ ruling dated 26 January 2024 in the open letter Ramachandra circulated.[^3] The ICJ did not identify genocide or ethnic cleansing as the letter claims. In fact, it could not have done so, as the court did not evaluate the merits of South Africa’s allegations during the provisional measures phase:
+Ramachandra has also recently circulated an open letter which misrepresents the ICJ provisional measures ruling dated 26 January 2024 on South Africa's case against Israel.[^3] The ICJ did not identify genocide or ethnic cleansing by Israel as the letter claims. In fact, it could not have done so, as the court did not evaluate the merits of South Africa’s allegations during the provisional measures phase:
 
 > “At the present stage of the proceedings, the Court is not required to ascertain whether any violations of Israel’s obligations under the Genocide Convention have occurred. Such a finding could be made by the Court only at the stage of the examination of the merits of the present case.”[^4] (paragraph #30)
 
 The court instead considered whether the rights asserted by South Africa—specifically, the right of Palestinians “to be protected from acts of genocide, attempted genocide, direct and public incitement to commit genocide, complicity in genocide, and conspiracy to commit genocide” (paragraph #37)—are plausible. The word “plausible” appears 15 times in the decision text, always in the context of “rights asserted by South Africa,” never in the context of “genocide” or “ethnic cleansing.” In fact, the term “ethnic cleansing” does not appear at all in the decision text. Moreover, it is instructive that the court did not order a ceasefire as South Africa had requested. Instead, it instructed Israel to comply with the Genocide Convention, which Israel is already obligated to do as a party to the convention. If the court did find plausible genocide, as Ramachandra claims, is it not unusual that it did not order an immediate ceasefire? Keep in mind also that the ICJ is capable of ordering such a ceasefire as it did against Russia in March 2022. 
 
-Ramachandra appears unfamiliar with the actual text of the decision as he provided three third-party links interpreting the decision to say what he believes it says when I challenged him on the letter. But the text is quite explicit about what it found to be plausible which has since been clarified beyond reasonable doubt by the former president of the ICJ who presided over the hearing.
+Ramachandra appears unfamiliar with the actual text of the decision but the text is quite explicit about what it found to be plausible which has since been clarified beyond reasonable doubt by the former president of the ICJ who presided over the hearing.[^5]
 
-[^1]: Benny Morris, "The Liar as Hero": [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
+[^1]: Benny Morris, "The Liar as Hero", [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
 
-[^2]: Al Jazeera, "Israel's attacks on Gaza: The weapons and scale of destruction": [link](https://www.aljazeera.com/news/longform/2023/11/9/israel-attacks-on-gaza-weapons-and-scale-of-destruction)
+[^2]: Al Jazeera, "Israel's attacks on Gaza: The weapons and scale of destruction", [link](https://www.aljazeera.com/news/longform/2023/11/9/israel-attacks-on-gaza-weapons-and-scale-of-destruction)
 
-[^3]: Ramachandra, et al.,  "The Gaza Call: An Open Letter to Christian Leaders, Churches, and Theologians in the West": [link](https://www.peacecatalyst.org/gaza-open-letter) 
+[^3]: Ramachandra, et al.,  "The Gaza Call: An Open Letter to Christian Leaders, Churches, and Theologians in the West", [link](https://www.peacecatalyst.org/gaza-open-letter) 
 
-[^4]: ICJ, "Provisional Measures Order of 26 January 2024": [link](https://www.icj-cij.org/node/203447) 
+[^4]: ICJ, "Provisional Measures Order of 26 January 2024", [link](https://www.icj-cij.org/node/203447) 
 
-[^5]: BBC, "Former head of ICJ explains ruling on genocide case against Israel brought by S Africa": [link] 
+[^5]: BBC, "Former head of ICJ explains ruling on genocide case against Israel brought by S Africa", [link] 
 (https://www.bbc.com/news/av/world-middle-east-68906919) 
 (I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.) 
+
+[^6]: PLO, "The Palestine National Charter of 1964", [link](https://www.jewishvirtuallibrary.org/the-original-palestine-national-charter-1964) 
+
+[^7]: Benny Morris, "1948: A History of the First Arab–Israeli War"
+
+[^8]: Time Magazine, "TRANS-JORDAN: Chess Player & Friend", [link](https://web.archive.org/web/20110201142817/http://www.time.com/time/magazine/article/0,9171,794208,00.html) 
