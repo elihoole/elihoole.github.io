@@ -12,6 +12,7 @@ On reflection following a recent email exchange with him, I am now publishing an
   - [Ramachandra delinks Islamic terror from Islam](#ramachandra-delinks-islamic-terror-from-islam)
   - [Ramachandra is unfamiliar with the text of the ICJ ruling](#ramachandra-is-unfamiliar-with-the-text-of-the-icj-ruling)
   - [Conclusion](#conclusion)
+  - [References](#references)
 
 
 ## Ramachandra does not read his own sources
@@ -102,6 +103,7 @@ Ramachandra appears unfamiliar with the actual text of the decision but the text
 
 To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) dabbles in antisemitic tropes; (iv) white washes Hamas's atrocities; (v) delinks Islamic terror from Islam without basis; and (vi) ill-informed about the source material he confidently opines on, such as in the case of the ICJ ruling. 
 
+## References
 
 [^1]: Benny Morris, "The Liar as Hero", [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
 
