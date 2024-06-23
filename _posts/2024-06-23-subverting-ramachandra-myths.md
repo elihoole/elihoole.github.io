@@ -16,7 +16,7 @@ I am now publishing an updated version of what I had drafted last December follo
 
 At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary historical authorities corroborating his particular narrative. These two historians hold fundamentally divergent views. For instance, while Pappé wrote an entire book characterising the events of 1948 as ethnic cleansing, Morris does not share this view. In fact, Morris describes Pappé’s book, The Ethnic Cleansing of Palestine, as being riddled with “distortions, large and small” on “almost every page” and credits Pappé with “polluting Middle Eastern historiography and poisoning the minds of those who superficially dabble in it.”[^1] One might be forgiven for thinking that the latter part of Morris' critique is directed at Ramachandra himself.
 
-Speaking of sources, Ramachandra  unreservedly commended Al Jazeera to the audience as the credible news platform to follow on the Israel-Palestine conflict. Notwithstanding the fact that Al Jazeera is a Qatari state-funded media organisation and is headquartered in the same city where the same state houses Hamas’ top brass. I suggest that Ramachandra dusts up his nuclear engineering textbooks to fact-check this Al Jazeera piece which, among other things, equates mass and energy to assert that Israel dropped the equivalent of two atom bombs on Gaza.
+Speaking of sources, Ramachandra  unreservedly commended Al Jazeera to the audience as the credible news platform to follow on the Israel-Palestine conflict. Notwithstanding the fact that Al Jazeera is a Qatari state-funded media organisation and is headquartered in the same city where the same state houses Hamas’ top brass. I suggest that Ramachandra dusts up his nuclear engineering textbooks to fact-check this Al Jazeera piece [^2] which, among other things, equates mass and energy to assert that Israel dropped the equivalent of two atom bombs on Gaza.
 
 ## Ramachandra has a thin grasp of facts on the Israeli-Palestinian conflict  
 
@@ -45,9 +45,11 @@ Such population transfers were not unique to that period and were a common featu
 **Jews are not a ‘people’** 
 
 Anti-semites regularly dispute that Jews constitute a people group. They do so because international law recognises the right to self-determination of a people group and racial or ethnic identity is one of several characteristics inherent in a description of a people for the purposes of “peoples’ rights.” 
+
 I happen to think that all nations are imagined and Israel is only as imagined as any other nation state. However, since Ramachandra regularly advances arguments for Palestinian statehood and/or cause based on notions indigeneity (which are, in turn, rooted in genetics),  I was deeply troubled when Ramachandra spent a considerable amount of time casting, in much the same way as internet antisemites do, a conspiratorial shadow over the basic fact of whether or not Jews constitute a people/ethnic group at the seminar. That diasporic Jewish communities, including the Ashkenazi, trace their origins back to the Levant is a matter of scientific fact. Ramachandra referenced the existence of Ethiopian and Indian Jews, as though the existence of Jews in such distant lands implies that  Jewish identity lacks (ethnic) cohesion. He is, however, misguided as even those distant diasporic Jewish communities trace a clear paternal link to the Levent. 
 
 Ramachandra needs to explain why he compares Israel to a  “foreign colonial power” when within his operating paradigm of statehood based on racial indigeneity, if one were to follow the science, Israel is better understood as the homecoming of a formerly scattered indigenous people group. 
+
 Now, why does that sound exactly like Zionism? 
 
 ## Ramachandra white washes Hamas’ atrocities
@@ -93,5 +95,6 @@ The court instead considered whether the rights asserted by South Africa—speci
 
 Ramachandra appears unfamiliar with the actual text of the decision as he provided three third-party links interpreting the decision to say what he believes it says when I challenged him on the letter. But the text is quite explicit about what it found to be plausible which has since been clarified beyond reasonable doubt by the former president of the ICJ who presided over the hearing.
 
-[^1]: The liar as hero, Benny Morris: [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
+[^1]: Benny Morris, "The Liar as Hero": [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
 
+[^2]: Al Jazeera, "Israel's attacks on Gaza: The weapons and scale of destruction": [link](https://www.aljazeera.com/news/longform/2023/11/9/israel-attacks-on-gaza-weapons-and-scale-of-destruction) 
