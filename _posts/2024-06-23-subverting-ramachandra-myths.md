@@ -14,7 +14,7 @@ I am now publishing an updated version of what I had drafted last December follo
 
 ## Ramachandra does not read the sources he quotes 
 
-At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary historical authorities corroborating his particular narrative. These two historians hold fundamentally divergent views. For instance, while Pappé wrote an entire book characterising the events of 1948 as ethnic cleansing, Morris does not share this view. In fact, Morris describes Pappé’s book, The Ethnic Cleansing of Palestine, as being riddled with “distortions, large and small” on “almost every page” and credits Pappé with “polluting Middle Eastern historiography and poisoning the minds of those who superficially dabble in it.” One might be forgiven for thinking that the latter part of Morris' critique is directed at Ramachandra himself.
+At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary historical authorities corroborating his particular narrative. These two historians hold fundamentally divergent views. For instance, while Pappé wrote an entire book characterising the events of 1948 as ethnic cleansing, Morris does not share this view. In fact, Morris describes Pappé’s book, The Ethnic Cleansing of Palestine, as being riddled with “distortions, large and small” on “almost every page” and credits Pappé with “polluting Middle Eastern historiography and poisoning the minds of those who superficially dabble in it.”[^1] One might be forgiven for thinking that the latter part of Morris' critique is directed at Ramachandra himself.
 
 Speaking of sources, Ramachandra  unreservedly commended Al Jazeera to the audience as the credible news platform to follow on the Israel-Palestine conflict. Notwithstanding the fact that Al Jazeera is a Qatari state-funded media organisation and is headquartered in the same city where the same state houses Hamas’ top brass. I suggest that Ramachandra dusts up his nuclear engineering textbooks to fact-check this Al Jazeera piece which, among other things, equates mass and energy to assert that Israel dropped the equivalent of two atom bombs on Gaza.
 
@@ -93,6 +93,5 @@ Moreover, it would be a mistake to think that the Islamic dimension of the Pales
 There is much more that I can say on this topic but what I have laid out is sufficient to ask Ramachandra the following question: does the foregoing point to there being some link between Islamic theology, at least strands of it, and the Palestinian national struggle, or is all of this mere coincidence? 
 It's remarkable that for 20 years, Ramachandra has blamed 'Christian Zionists' for the Israel-Palestine conflict while simultaneously refusing to consider Islam’s role in it. That is not the mark of a serious, objective scholar. 
 
-
-
+[^1]: The liar as hero, Benny Morris: https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian 
 
