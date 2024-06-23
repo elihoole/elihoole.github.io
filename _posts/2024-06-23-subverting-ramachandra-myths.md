@@ -65,7 +65,7 @@ Not only did Ramachandra characterise Hamas's terror as inevitable he also ascri
 
 ## Ramachandra delinks Islamic terror from Islam
 
-Since Ramachandra readily blames some theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long and unfortunate intellectual history of lazily de-linking Islamic terrorism from Islam. For instance, in the "Myths of Terrorism" chapter in Subverting Global Myths, Ramachandra writes:
+Since Ramachandra readily blames some theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long and unfortunate intellectual history of lazily de-linking Islamic terrorism from Islam. For instance, in the "Myths of Terrorism" chapter in Subverting Global Myths,[^25] Ramachandra writes:
 
 > “The American taxpayer was also funding the vigorous program of Islamization by Pakistani Islamists among the millions of refugees in Peshawar and the tribal trust territories. Pamphlets with Quranic texts were distributed in the madrasas (religious schools), reviving the interpretation of jihad as holy war against the enemies of Islam, an idea that had largely lain dormant for centuries.”[^18]
 
@@ -101,7 +101,7 @@ Ramachandra appears unfamiliar with the actual text of the decision but the text
 
 ## Conclusion
 
-To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) dabbles in antisemitic tropes; (iv) white washes Hamas's atrocities; (v) delinks Islamic terror from Islam without basis; and (vi) ill-informed about the source material he confidently opines on, such as in the case of the ICJ ruling. 
+To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) dabbles in antisemitic tropes; (iv) white washes Hamas's atrocities and speaks on behalf of the terror outfit in public fora; (v) delinks Islamic terror from Islam without basis; and (vi) ill-informed about the source material he confidently opines on, such as in the case of the ICJ ruling. 
 
 ## References
 
@@ -140,7 +140,6 @@ To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a th
 
 [^17]: Al Jazeera, "There is nothing surprising about Hamas’s operation", [link](https://www.aljazeera.com/opinions/2023/10/8/there-is-nothing-surprising-about-hamass-operation)
 
-[^18]: Ramachandra, "Subverting Global Myths" 
 
 [^19]: Wikipedia entry of Fula Jihads, [link](https://en.wikipedia.org/wiki/Fula_jihads)
 
@@ -153,3 +152,5 @@ To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a th
 [^23]: The Telegraph "Sermons made since terrorist group’s October 7 attack include calls to ‘destroy Israel’, ‘kill the Jews’ and ‘wage your war for Allah'", [link](https://www.telegraph.co.uk/news/2023/11/03/charity-commission-examines-mosques-after-pro-hamas-sermons/) 
 
 [^24]: The Covenant of the Islamic Resistance Movement, [link](https://avalon.law.yale.edu/20th_century/hamas.asp) 
+
+[^25]: Ramachandra, "Subverting Global Myths"
