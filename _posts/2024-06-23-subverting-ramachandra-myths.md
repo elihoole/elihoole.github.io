@@ -105,7 +105,7 @@ Ramachandra appears unfamiliar with the actual text of the decision but the text
 [^4]: ICJ, "Provisional Measures Order of 26 January 2024", [link](https://www.icj-cij.org/node/203447) 
 
 [^5]: BBC, "Former head of ICJ explains ruling on genocide case against Israel brought by S Africa", [link](https://www.bbc.com/news/av/world-middle-east-68906919) 
-I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.
+(I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.)
 
 [^6]: PLO, "The Palestine National Charter of 1964", [link](https://www.jewishvirtuallibrary.org/the-original-palestine-national-charter-1964) 
 
