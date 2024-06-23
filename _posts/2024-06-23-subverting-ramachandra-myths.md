@@ -70,13 +70,13 @@ The repeated refrain of Hamas terrorists and citizens of Gaza who attacked Israe
 
 The most potent political force in Palestinian politics for the past 25 years is Hamas, and it explicitly states that it is a jihadist movement. A glance at Hamas’ founding charter is instructive:
 
-“The Islamic Resistance Movement is a distinguished Palestinian movement, whose allegiance is to Allah, and whose way of life is Islam. It strives to raise the banner of Allah over every inch of Palestine.” (Article 6)
+> “The Islamic Resistance Movement is a distinguished Palestinian movement, whose allegiance is to Allah, and whose way of life is Islam. It strives to raise the banner of Allah over every inch of Palestine.” (Article 6)
 
-“The land of Palestine is an Islamic Waqf [Holy Possession] consecrated for future Moslem generations until Judgment Day. No one can renounce it or any part, or abandon it or any part of it.” (Article 11)
+> “The land of Palestine is an Islamic Waqf [Holy Possession] consecrated for future Moslem generations until Judgment Day. No one can renounce it or any part, or abandon it or any part of it.” (Article 11)
 
-“Palestine is an Islamic land... Since this is the case, the Liberation of Palestine is an individual duty for every Moslem wherever he may be.” (Article 13)
+> “Palestine is an Islamic land... Since this is the case, the Liberation of Palestine is an individual duty for every Moslem wherever he may be.” (Article 13)
 
-“Allah is its target, the Prophet is its model, the Koran its constitution: Jihad is its path and death for the sake of Allah is the loftiest of its wishes.” (Article 8)
+> “Allah is its target, the Prophet is its model, the Koran its constitution: Jihad is its path and death for the sake of Allah is the loftiest of its wishes.” (Article 8)
 
 Moreover, it would be a mistake to think that the Islamic dimension of the Palestinian struggle is a recent evolution and that such a religious character was absent in the early days. Izz ad-Din al-Qassam, after whom the military wing of Hamas is named, was an Islamic preacher who fought against British and Jewish forces in the 1930s. There is also the history of Hajj Amin al-Husayni, the exiled grand mufti of Jerusalem, who sought collaboration with Nazi Germany. The Palestinian struggle, since its inception, has shared a very close relationship with Islam and many of its principal characters were Islamic preachers or leaders who drew deeply from Islamic teachings. 
 
@@ -93,5 +93,5 @@ The court instead considered whether the rights asserted by South Africa—speci
 
 Ramachandra appears unfamiliar with the actual text of the decision as he provided three third-party links interpreting the decision to say what he believes it says when I challenged him on the letter. But the text is quite explicit about what it found to be plausible which has since been clarified beyond reasonable doubt by the former president of the ICJ who presided over the hearing.
 
-[^1]: The liar as hero, Benny Morris: [https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
+[^1]: The liar as hero, Benny Morris: [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
 
