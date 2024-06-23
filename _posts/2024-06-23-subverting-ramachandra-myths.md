@@ -5,14 +5,16 @@ On December 2, 2023, St Paul’s Church Milagiriya organised a public seminar on
 I am now publishing an updated version of what I had drafted last December following a more recent exchange with Ramachandra. My decision to put this on public record is informed by the absence of a credible challenge to Ramachandra’s position as an authority on Israeli history and the Israeli-Pastine conflict amongst the elite English-speaking, Colombo-living Christians. 
 
 - [Subverting Ramachandra Myths](#subverting-ramachandra-myths)
-  - [Ramachandra does not read the sources he quotes](#ramachandra-does-not-read-the-sources-he-quotes)
+  - [Ramachandra does not read his own sources](#ramachandra-does-not-read-his-own-sources)
   - [Ramachandra has a thin grasp of facts on the Israeli-Palestinian conflict](#ramachandra-has-a-thin-grasp-of-facts-on-the-israeli-palestinian-conflict)
+  - [Ramachandra dabbles in antisemetic tropes](#ramachandra-dabbles-in-antisemetic-tropes)
   - [Ramachandra white washes Hamas’ atrocities](#ramachandra-white-washes-hamas-atrocities)
   - [Ramachandra delinks Islamic terror from Islam](#ramachandra-delinks-islamic-terror-from-islam)
   - [Ramachandra is unfamiliar with the text of the ICJ ruling](#ramachandra-is-unfamiliar-with-the-text-of-the-icj-ruling)
+  - [Conclusion](#conclusion)
 
 
-## Ramachandra does not read the sources he quotes 
+## Ramachandra does not read his own sources
 
 At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary historical authorities corroborating his particular narrative. These two historians hold fundamentally divergent views. For instance, while Pappé wrote an entire book characterising the events of 1948 as ethnic cleansing, Morris does not share this view. In fact, Morris describes Pappé’s book, *_The Ethnic Cleansing of Palestine_*, as being riddled with “distortions, large and small” on “almost every page” and credits Pappé with “polluting Middle Eastern historiography and poisoning the minds of those who superficially dabble in it.”[^1] One might be forgiven for thinking that the latter part of Morris' critique is directed at Ramachandra himself.
 
@@ -42,7 +44,7 @@ Nonetheless, it would have been reasonable to think of the Arabs as the overwhel
 
 Such population transfers were not unique to that period and were a common feature in the creation of new states. The many millions of refugees who were displaced in these admittedly harsh episodes of history moved on and built up new lives in their new homes. We must wish for the same for Palestinian refugees. 
 
-**Jews are not a ‘people’** 
+## Ramachandra dabbles in antisemetic tropes 
 
 Anti-semites regularly dispute that Jews constitute a people group. They do so because international law recognises the right to self-determination of a people group and racial or ethnic identity is one of several characteristics inherent in a description of a people for the purposes of “peoples’ rights.”[^12] 
 
@@ -84,7 +86,7 @@ Moreover, it would be a mistake to think that the Islamic dimension of the Pales
 
 There is much more that I can say on this topic but what I have laid out is sufficient to ask Ramachandra the following question: does the foregoing point to there being some link between Islamic theology, at least strands of it, and the Palestinian national struggle, or is all of this mere coincidence? 
 
-It's remarkable that for 20 years, Ramachandra has blamed 'Christian Zionists' for the Israel-Palestine conflict while simultaneously refusing to consider Islam’s role in it. Is this the mark of a serious and objective scholar? 
+It's remarkable that for 20 years Ramachandra has blamed 'Christian Zionists' for the Israel-Palestine conflict while simultaneously refusing to consider Islam’s role in it. This is not the mark of a serious and objective scholar.  
 
 ## Ramachandra is unfamiliar with the text of the ICJ ruling 
 
@@ -95,6 +97,11 @@ Ramachandra has also recently circulated an open letter which misrepresents the 
 The court instead considered whether the rights asserted by South Africa—specifically, the right of Palestinians “to be protected from acts of genocide, attempted genocide, direct and public incitement to commit genocide, complicity in genocide, and conspiracy to commit genocide” (paragraph #37)—are plausible. The word “plausible” appears 15 times in the decision text, always in the context of “rights asserted by South Africa,” never in the context of “genocide” or “ethnic cleansing.” In fact, the term “ethnic cleansing” does not appear at all in the decision text. Moreover, it is instructive that the court did not order a ceasefire as South Africa had requested. Instead, it instructed Israel to comply with the Genocide Convention, which Israel was already obligated to do as a party to the convention. If the court did find plausible genocide, as Ramachandra's letter claims, is it not unusual that it did not order an immediate ceasefire? Keep in mind also that the ICJ is capable of ordering such a ceasefire as it did against Russia in March 2022. 
 
 Ramachandra appears unfamiliar with the actual text of the decision but the text is quite explicit about what it found to be plausible which has since been clarified beyond reasonable doubt by the former president of the ICJ who presided over the hearing.[^5]
+
+## Conclusion
+
+To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) whit washes Hamas' atrocities; (i)
+
 
 [^1]: Benny Morris, "The Liar as Hero", [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
 
