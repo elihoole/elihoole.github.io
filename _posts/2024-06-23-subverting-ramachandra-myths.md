@@ -7,7 +7,7 @@ On reflection following a recent email exchange with him, I am now publishing an
 - [Subverting Ramachandra Myths](#subverting-ramachandra-myths)
   - [Ramachandra does not read his own sources](#ramachandra-does-not-read-his-own-sources)
   - [Ramachandra has a thin grasp of facts on the Israeli-Palestinian conflict](#ramachandra-has-a-thin-grasp-of-facts-on-the-israeli-palestinian-conflict)
-  - [Ramachandra dabbles in antisemetic tropes](#ramachandra-dabbles-in-antisemetic-tropes)
+  - [Ramachandra traffics in antisemetic tropes](#ramachandra-traffics-in-antisemetic-tropes)
   - [Ramachandra white washes Hamas’ atrocities](#ramachandra-white-washes-hamas-atrocities)
   - [Ramachandra delinks Islamic terror from Islam](#ramachandra-delinks-islamic-terror-from-islam)
   - [Ramachandra is unfamiliar with the text of the ICJ ruling](#ramachandra-is-unfamiliar-with-the-text-of-the-icj-ruling)
@@ -45,7 +45,7 @@ Nonetheless, it would have been reasonable to think of the Arabs as the overwhel
 
 Such population transfers were not unique to that period and were a common feature in the creation of new states. The many millions of refugees who were displaced in these admittedly harsh episodes of history moved on and built up new lives in their new homes. We must wish for the same for Palestinian refugees. 
 
-## Ramachandra dabbles in antisemetic tropes 
+## Ramachandra traffics in antisemetic tropes 
 
 Anti-semites regularly dispute that Jews constitute a people group. They do so because international law recognises the right to self-determination of a people group and racial or ethnic identity is one of several characteristics inherent in a description of a people for the purposes of “peoples’ rights.”[^12] 
 
