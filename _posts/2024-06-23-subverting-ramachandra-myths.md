@@ -65,7 +65,7 @@ Not only did Ramachandra characterise Hamas's terror as inevitable he also ascri
 
 ## Ramachandra delinks Islamic terror from Islam
 
-Since Ramachandra readily blames some theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long and unfortunate intellectual history of falsehood on the topic of Islamic terrorism. For instance, in the "Myths of Terrorism" chapter in Subverting Global Myths, Ramachandra writes:
+In response to Ramachandra readily faulting the theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long and unfortunate intellectual history of falsehood on the topic of Islamic terrorism. For instance, in the "Myths of Terrorism" chapter in Subverting Global Myths, Ramachandra writes:
 
 > “The American taxpayer was also funding the vigorous program of Islamization by Pakistani Islamists among the millions of refugees in Peshawar and the tribal trust territories. Pamphlets with Quranic texts were distributed in the madrasas (religious schools), reviving the interpretation of jihad as holy war against the enemies of Islam, an idea that had largely lain dormant for centuries.”[^18]
 
@@ -83,7 +83,7 @@ The most potent political force in Palestinian politics for the past 25 years is
 
 > “Allah is its target, the Prophet is its model, the Koran its constitution: Jihad is its path and death for the sake of Allah is the loftiest of its wishes.” (Article 8)
 
-Moreover, it would be a mistake to think that the Islamic dimension of the Palestinian struggle is a recent evolution and that such a religious character was absent in the early days. Izz ad-Din al-Qassam, after whom the military wing of Hamas is named, was an Islamic preacher who fought against British and Jewish forces in the 1930s. There is also the history of Hajj Amin al-Husayni, the exiled grand mufti of Jerusalem, who sought collaboration with Nazi Germany. The Palestinian struggle, since its inception, has shared a very close relationship with Islam with many of its principal characters being Islamic preachers who drew deeply from Islamic teachings. 
+Moreover, it would be a mistake to think that the Islamic dimension of the Palestinian struggle is a recent evolution and that such a religious character was absent in the early days. Izz ad-Din al-Qassam, after whom the military wing of Hamas is named, was an Islamic preacher who fought against British and Jewish forces in the 1930s. There is also the history of Hajj Amin al-Husayni, the exiled grand mufti of Jerusalem, who sought collaboration with Nazi Germany during second world war. The Palestinian struggle, since its inception, has shared a very close relationship with Islam with many of its principal leaders being Islamic preachers who drew deeply on Islamic teachings. 
 
 There is much more that I can say on this topic but what I have laid out is sufficient to ask Ramachandra the following question: does the foregoing point to there being some link between Islamic theology, at least strands of it, and the Palestinian national struggle, or is all of this mere coincidence? 
 
