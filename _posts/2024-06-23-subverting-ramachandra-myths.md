@@ -100,7 +100,7 @@ Ramachandra appears unfamiliar with the actual text of the decision but the text
 
 ## Conclusion
 
-To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) whit washes Hamas' atrocities; (i)
+To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) dabbles in antisemitic tropes; (iv) white washes Hamas' atrocities; (v) delinks Islamic terror from Islam without basis; and (vi) ill-informed about the source material he confidently opines on, such as in the case of the ICJ ruling. 
 
 
 [^1]: Benny Morris, "The Liar as Hero", [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
@@ -112,7 +112,8 @@ To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a th
 [^4]: ICJ, "Provisional Measures Order of 26 January 2024", [link](https://www.icj-cij.org/node/203447) 
 
 [^5]: BBC, "Former head of ICJ explains ruling on genocide case against Israel brought by S Africa", [link](https://www.bbc.com/news/av/world-middle-east-68906919) 
-(I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.)
+
+I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.
 
 [^6]: PLO, "The Palestine National Charter of 1964", [link](https://www.jewishvirtuallibrary.org/the-original-palestine-national-charter-1964) 
 
