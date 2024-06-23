@@ -64,7 +64,7 @@ Not only did Ramachandra characterise Hamas’ terror as inevitable he also ascr
 
 Since Ramachandra readily blames some theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long and unfortunate intellectual history of lazily de-linking Islamic terrorism from Islam. For instance, in the "Myths of Terrorism" chapter in Subverting Global Myths, Ramachandra writes:
 
-“The American taxpayer was also funding the vigorous program of Islamization by Pakistani Islamists among the millions of refugees in Peshawar and the tribal trust territories. Pamphlets with Quranic texts were distributed in the madrasas (religious schools), reviving the interpretation of jihad as holy war against the enemies of Islam, an idea that had largely lain dormant for centuries.”
+> “The American taxpayer was also funding the vigorous program of Islamization by Pakistani Islamists among the millions of refugees in Peshawar and the tribal trust territories. Pamphlets with Quranic texts were distributed in the madrasas (religious schools), reviving the interpretation of jihad as holy war against the enemies of Islam, an idea that had largely lain dormant for centuries.”
 
 The “largely” in the final sentence tries to do some heavy lifting, but it ultimately cannot mask the fundamental inaccuracy of the statement. For example, just a century prior, in the 1800s, Islamic clerics Usman dan Fodio and later Umar Tal led the Fulani jihads in Western Africa and founded the Sokoto caliphate. Jihad as holy war against the enemies of Islam never needed “reviving”. Instances of jihad as wars of conquest against non-Islamic peoples can be traced back to Mohammed himself, with multiple episodes in each century since his time. Mainstream Islamic theology was also never in confusion about what jihad means. One can, for instance, read through every reference to jihad in  the hadiths in the Bukhari collection which is considered to be “the most authentic collection of the teachings and sayings of Prophet Mohammed.” The same is true within Sharia legal traditions.
 
@@ -87,9 +87,9 @@ It's remarkable that for 20 years, Ramachandra has blamed 'Christian Zionists' f
 
 ## Ramachandra is unfamiliar with the text of the ICJ ruling 
 
-I will now address the misrepresentation of the ICJ ruling dated 26 January 2024 in the open letter Ramachandra circulated. The ICJ did not identify genocide or ethnic cleansing as the letter claims. In fact, it could not have done so, as the court did not evaluate the merits of South Africa’s allegations during the provisional measures phase:
+I will now address the misrepresentation of the ICJ ruling dated 26 January 2024 in the open letter Ramachandra circulated.[^3] The ICJ did not identify genocide or ethnic cleansing as the letter claims. In fact, it could not have done so, as the court did not evaluate the merits of South Africa’s allegations during the provisional measures phase:
 
-“At the present stage of the proceedings, the Court is not required to ascertain whether any violations of Israel’s obligations under the Genocide Convention have occurred. Such a finding could be made by the Court only at the stage of the examination of the merits of the present case.” (paragraph #30)
+> “At the present stage of the proceedings, the Court is not required to ascertain whether any violations of Israel’s obligations under the Genocide Convention have occurred. Such a finding could be made by the Court only at the stage of the examination of the merits of the present case.”[^4] (paragraph #30)
 
 The court instead considered whether the rights asserted by South Africa—specifically, the right of Palestinians “to be protected from acts of genocide, attempted genocide, direct and public incitement to commit genocide, complicity in genocide, and conspiracy to commit genocide” (paragraph #37)—are plausible. The word “plausible” appears 15 times in the decision text, always in the context of “rights asserted by South Africa,” never in the context of “genocide” or “ethnic cleansing.” In fact, the term “ethnic cleansing” does not appear at all in the decision text. Moreover, it is instructive that the court did not order a ceasefire as South Africa had requested. Instead, it instructed Israel to comply with the Genocide Convention, which Israel is already obligated to do as a party to the convention. If the court did find plausible genocide, as Ramachandra claims, is it not unusual that it did not order an immediate ceasefire? Keep in mind also that the ICJ is capable of ordering such a ceasefire as it did against Russia in March 2022. 
 
@@ -97,4 +97,12 @@ Ramachandra appears unfamiliar with the actual text of the decision as he provid
 
 [^1]: Benny Morris, "The Liar as Hero": [link](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian) 
 
-[^2]: Al Jazeera, "Israel's attacks on Gaza: The weapons and scale of destruction": [link](https://www.aljazeera.com/news/longform/2023/11/9/israel-attacks-on-gaza-weapons-and-scale-of-destruction) 
+[^2]: Al Jazeera, "Israel's attacks on Gaza: The weapons and scale of destruction": [link](https://www.aljazeera.com/news/longform/2023/11/9/israel-attacks-on-gaza-weapons-and-scale-of-destruction)
+
+[^3]: Ramachandra, et al.,  "The Gaza Call: An Open Letter to Christian Leaders, Churches, and Theologians in the West": [link](https://www.peacecatalyst.org/gaza-open-letter) 
+
+[^4]: ICJ, "Provisional Measures Order of 26 January 2024": [link](https://www.icj-cij.org/node/203447) 
+
+[^5]: BBC, "Former head of ICJ explains ruling on genocide case against Israel brought by S Africa": [link] 
+(https://www.bbc.com/news/av/world-middle-east-68906919) 
+(I suggest watching the video instead of reading the BBC’s description which is unnecessarily convoluted.) 
