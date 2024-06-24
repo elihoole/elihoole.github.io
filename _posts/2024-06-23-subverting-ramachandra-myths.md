@@ -8,7 +8,7 @@ Upon reflection, following a recent email exchange with him, I am now publishing
   - [Ramachandra does not read his own sources](#ramachandra-does-not-read-his-own-sources)
   - [Ramachandra has a thin grasp of facts on the Israel-Palestine conflict](#ramachandra-has-a-thin-grasp-of-facts-on-the-israel-palestine-conflict)
   - [Ramachandra traffics in antisemetic tropes](#ramachandra-traffics-in-antisemetic-tropes)
-  - [Ramachandra whitewashes Hamas’ atrocities](#ramachandra-whitewashes-hamas-atrocities)
+  - [Ramachandra whitewashes Hamas’s atrocities](#ramachandra-whitewashes-hamass-atrocities)
   - [Ramachandra delinks Islamic terror from Islam](#ramachandra-delinks-islamic-terror-from-islam)
   - [Ramachandra is unfamiliar with the text of the ICJ ruling](#ramachandra-is-unfamiliar-with-the-text-of-the-icj-ruling)
   - [Conclusion](#conclusion)
@@ -55,7 +55,7 @@ Ramachandra needs to explain why he compares Israel to a “foreign colonial pow
 
 Now, why does that sound exactly like Zionism? 
 
-## Ramachandra whitewashes Hamas’ atrocities
+## Ramachandra whitewashes Hamas’s atrocities
 
 Just three days after the brutal terror attack that Hamas perpetrated on October 7, 2023, Ramachandra began his blog by quoting Edmund Burke: “Those who make peaceful change impossible, make violent change inevitable.”[^16] At that time, hundreds of civilians lay dead, and their bodies were still being collected. He finished his blog post by pointing to an Al Jazeera article with the words, "for anyone wishing to understand the context of, without necessarily condoning, Hamas’s attacks on Israel.” The article effectively blamed Israel for the death of its own citizens and argued that Hamas’ attacks were inevitable given said ‘context’.[^17]
 
