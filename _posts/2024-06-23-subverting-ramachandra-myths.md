@@ -140,6 +140,7 @@ To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a th
 
 [^17]: Al Jazeera, "There is nothing surprising about Hamas’s operation", [link](https://www.aljazeera.com/opinions/2023/10/8/there-is-nothing-surprising-about-hamass-operation)
 
+[^18]: Ramachandra, "Subverting Global Myths", Chapter on terrorism
 
 [^19]: Wikipedia entry of Fula Jihads, [link](https://en.wikipedia.org/wiki/Fula_jihads)
 
