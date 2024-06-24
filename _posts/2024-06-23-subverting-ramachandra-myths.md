@@ -57,7 +57,7 @@ Now, why does that sound exactly like Zionism?
 
 ## Ramachandra whitewashes Hamas’s atrocities
 
-Just three days after the brutal terror attack that Hamas perpetrated on October 7, 2023, Ramachandra began his blog by quoting Edmund Burke: “Those who make peaceful change impossible, make violent change inevitable.”[^16] At that time, hundreds of civilians lay dead, and their bodies were still being collected. He finished his blog post by pointing to an Al Jazeera article with the words, "for anyone wishing to understand the context of, without necessarily condoning, Hamas’s attacks on Israel.” The article effectively blamed Israel for the death of its own citizens and argued that Hamas’ attacks were inevitable given said ‘context’.[^17]
+Just three days after the brutal terror attack that Hamas perpetrated on October 7, 2023, Ramachandra began his blog by quoting Edmund Burke: “Those who make peaceful change impossible, make violent change inevitable.”[^16] At that time, hundreds of civilians lay dead, and their bodies were still being collected. He finished his blog post by pointing to an Al Jazeera article with the words, "for anyone wishing to understand the context of, without necessarily condoning, Hamas’s attacks on Israel.” The article effectively blamed Israel for the death of its own citizens and argued that Hamas’ attacks were inevitable given said "context."[^17]
 
 Could Ramachandra elaborate under what context the purposeful massacre of civilians, as well as mass rape and bodily mutilation of women, deserve anything but unreserved condemnation? Even granting the Al Jazeera article’s characterization of the "context", his response is certainly not “Christian”. “Without necessarily condoning” – is that a serious stance?
 
@@ -65,7 +65,7 @@ Not only did Ramachandra characterise Hamas's terror as inevitable he also ascri
 
 ## Ramachandra delinks Islam from Islamic terror
 
-In response to Ramachandra readily faulting the theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long and unfortunate intellectual history of falsehood on the topic of Islamic terrorism. For instance, in the "Myths of Terrorism" chapter in Subverting Global Myths, Ramachandra writes:
+In response to Ramachandra readily faulting the theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long and unfortunate intellectual history of falsehood on the topic of Islamic terrorism. For instance, in the "Myths of Terrorism" chapter in his book *Subverting Global Myths*, Ramachandra writes:
 
 > “The American taxpayer was also funding the vigorous program of Islamization by Pakistani Islamists among the millions of refugees in Peshawar and the tribal trust territories. Pamphlets with Quranic texts were distributed in the madrasas (religious schools), reviving the interpretation of jihad as holy war against the enemies of Islam, an idea that had largely lain dormant for centuries.”[^18]
 
