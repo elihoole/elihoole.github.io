@@ -6,7 +6,7 @@ Upon reflection, following a recent email exchange with him, I am now publishing
 
 - [Subverting Ramachandra Myths](#subverting-ramachandra-myths)
   - [Ramachandra does not read his own sources](#ramachandra-does-not-read-his-own-sources)
-  - [Ramachandra has a thin grasp of facts on the Israeli-Palestinian conflict](#ramachandra-has-a-thin-grasp-of-facts-on-the-israeli-palestinian-conflict)
+  - [Ramachandra has a thin grasp of facts on the Israel-Palestine conflict](#ramachandra-has-a-thin-grasp-of-facts-on-the-israel-palestine-conflict)
   - [Ramachandra traffics in antisemetic tropes](#ramachandra-traffics-in-antisemetic-tropes)
   - [Ramachandra whitewashes Hamas’ atrocities](#ramachandra-whitewashes-hamas-atrocities)
   - [Ramachandra delinks Islamic terror from Islam](#ramachandra-delinks-islamic-terror-from-islam)
@@ -21,7 +21,7 @@ At the seminar, Ramachandra presented Ilan Pappé and Benny Morris as primary hi
 
 Speaking of sources, Ramachandra unreservedly commended Al Jazeera to the audience as the credible news platform to follow on the Israel-Palestine conflict. Notwithstanding the fact that Al Jazeera is a Qatari state-funded media organisation and is headquartered in the same city where the same state houses Hamas’ top brass. I suggest that Ramachandra dusts up his nuclear engineering textbooks to fact-check this Al Jazeera piece[^2] which, among other things, equates mass and energy to assert that Israel dropped the equivalent of two atom bombs on Gaza.
 
-## Ramachandra has a thin grasp of facts on the Israeli-Palestinian conflict
+## Ramachandra has a thin grasp of facts on the Israel-Palestine conflict
 
 **PLO’s founding date and purpose**
 
