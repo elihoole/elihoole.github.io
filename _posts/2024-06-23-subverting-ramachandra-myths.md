@@ -101,7 +101,7 @@ Ramachandra appears unfamiliar with the actual text of the decision but the text
 
 ## Conclusion
 
-To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) traffics in antisemitic tropes; (iv) whitewashes Hamas's atrocities and speaks on behalf of the terror outfit in public fora; (v) delinks Islamic terror from Islam without basis; and (vi) remains ill-informed about source material he confidently opines on, such as in the case of the ICJ ruling. 
+To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) traffics in antisemitic tropes; (iv) whitewashes Hamas's atrocities and speaks on behalf of the terror outfit in public fora; (v) delinks Islamic terror from Islam without basis; and (vi) remains ill-informed about source material he confidently opines on, as in the case of the ICJ ruling. 
 
 ## References
 
