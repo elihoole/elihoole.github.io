@@ -59,7 +59,7 @@ Now, why does that sound exactly like Zionism?
 
 Just three days after the brutal terror attack that Hamas perpetrated on October 7, 2023, Ramachandra began his blog by quoting Edmund Burke: “Those who make peaceful change impossible, make violent change inevitable.”[^16] At that time, hundreds of civilians lay dead, and their bodies were still being collected. He finished his blog post by pointing to an Al Jazeera article with the words, "for anyone wishing to understand the context of, without necessarily condoning, Hamas’s attacks on Israel.” The article effectively blamed Israel for the death of its own citizens and argued that Hamas’ attacks were inevitable given said ‘context’.[^17]
 
-Could Ramachandra elaborate under what context the purposeful massacre of civilians, as well as mass rape and bodily mutilation of women, deserve anything but unreserved condemnation? Even granting the Al Jazeera article’s characterization of the ‘context,’ his response is certainly not “Christian”. “Without necessarily condoning” – is that a serious stance? From where does he derive his ethics? 
+Could Ramachandra elaborate under what context the purposeful massacre of civilians, as well as mass rape and bodily mutilation of women, deserve anything but unreserved condemnation? Even granting the Al Jazeera article’s characterization of the "context", his response is certainly not “Christian”. “Without necessarily condoning” – is that a serious stance?
 
 Not only did Ramachandra characterise Hamas's terror as inevitable he also ascribed an (noble) objective to the terror. Ramachandra suggested that the attacks aimed to free Palestinian prisoners in Israeli captivity. Hamas, on the other hand, is clear that the purpose of the attack was to liberate the Al Aqsa mosque. Ramachandra also suggested that Hamas's foundational goal of eradicating the Jewish state is merely political rhetoric and not an objective the movement actively pursues. Statements from high ranking Hamas officials, since October 7, beg to differ. Ramachandra has to explain why he feels so comfortable speaking on behalf of Hamas, often contradicting what Hamas itself says about its actions and intentions, in public fora. 
 
@@ -101,7 +101,7 @@ Ramachandra appears unfamiliar with the actual text of the decision but the text
 
 ## Conclusion
 
-To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) dabbles in antisemitic tropes; (iv) white washes Hamas's atrocities and speaks on behalf of the terror outfit in public fora; (v) delinks Islamic terror from Islam without basis; and (vi) is ill-informed about source material he confidently opines on, such as in the case of the ICJ ruling. 
+To summarise, Ramachandra (i) does not read the sources he quotes; (ii) has a thin grasp of facts when it comes to the Israeli-Palestinian conflict; (iii) traffics in antisemitic tropes; (iv) whitewashes Hamas's atrocities and speaks on behalf of the terror outfit in public fora; (v) delinks Islamic terror from Islam without basis; and (vi) remains ill-informed about source material he confidently opines on, such as in the case of the ICJ ruling. 
 
 ## References
 
