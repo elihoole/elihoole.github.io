@@ -9,7 +9,7 @@ Upon reflection, following a recent email exchange with him, I am now publishing
   - [Ramachandra has a thin grasp of facts on the Israel-Palestine conflict](#ramachandra-has-a-thin-grasp-of-facts-on-the-israel-palestine-conflict)
   - [Ramachandra traffics in antisemetic tropes](#ramachandra-traffics-in-antisemetic-tropes)
   - [Ramachandra whitewashes Hamas’s atrocities](#ramachandra-whitewashes-hamass-atrocities)
-  - [Ramachandra delinks Islamic terror from Islam](#ramachandra-delinks-islamic-terror-from-islam)
+  - [Ramachandra delinks Islam from Islamic terror](#ramachandra-delinks-islam-from-islamic-terror)
   - [Ramachandra is unfamiliar with the text of the ICJ ruling](#ramachandra-is-unfamiliar-with-the-text-of-the-icj-ruling)
   - [Conclusion](#conclusion)
   - [References](#references)
@@ -63,7 +63,7 @@ Could Ramachandra elaborate under what context the purposeful massacre of civili
 
 Not only did Ramachandra characterise Hamas's terror as inevitable he also ascribed an (noble) objective to the terror. Ramachandra suggested that the attacks aimed to free Palestinian prisoners in Israeli captivity. Hamas, on the other hand, called the attack "Al Aqsa Flood" in reference to the libertion of the Al Aqsa mosque. Ramachandra also suggested that Hamas's foundational goal of eradicating the Jewish state is merely political rhetoric and not an objective the movement actively pursues. Statements from high ranking Hamas officials, since October 7, beg to differ. Ramachandra has to explain why he feels so comfortable speaking on behalf of Hamas, often contradicting what Hamas itself says about its actions and intentions, in public fora. 
 
-## Ramachandra delinks Islamic terror from Islam
+## Ramachandra delinks Islam from Islamic terror
 
 In response to Ramachandra readily faulting the theologically motivated actions of Christians and Zionists for the Israel-Palestine conflict, I suggested that a holistic understanding must also consider the theologically motivated actions of Arab Muslims. This should be an obvious point. But Ramachandra has a long and unfortunate intellectual history of falsehood on the topic of Islamic terrorism. For instance, in the "Myths of Terrorism" chapter in Subverting Global Myths, Ramachandra writes:
 
