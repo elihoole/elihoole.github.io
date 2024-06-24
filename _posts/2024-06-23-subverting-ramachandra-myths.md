@@ -43,7 +43,7 @@ As previously noted, Morris, who extensively researched the Israeli military arc
 
 Nonetheless, it would have been reasonable to think of the Arabs as the overwhelming victims of the events of 1948 if not for the subsequent (forceful) removal of historic Jewish communities from Arab countries – most of whom settled in Israel.[^11] These Mizrahi Jews, from countries such as Egypt, Algeria, Morocco, Lebanon, Iraq, Yemen, and Syria now make up roughly a half of the Jewish population in Israel today. In summary, approximately 700,000 Arabs were either voluntarily or forcibly displaced from Israeli territory, paralleled by a similar number of Jews moving into Israel from Arab countries. 
 
-Such population transfers were not unique to that period and were a common feature in the creation of new states. The many millions of refugees who were displaced in these admittedly harsh episodes of history moved on and built up new lives in their new homes. We must wish for the same for Palestinian refugees. 
+Such population transfers were not unique to that period and were a common feature in the creation of new states. The many millions of refugees, including Jews of Middle and Near Eastern origin, who were displaced in these admittedly harsh episodes of history moved on and built up new lives in their new homes. 
 
 ## Ramachandra traffics in antisemetic tropes 
 
