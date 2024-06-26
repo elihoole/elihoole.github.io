@@ -10,7 +10,7 @@ Upon reflection, following a recent email exchange with him, I am now publishing
   - [Ramachandra traffics in antisemetic tropes](#ramachandra-traffics-in-antisemetic-tropes)
   - [Ramachandra whitewashes Hamas’s atrocities](#ramachandra-whitewashes-hamass-atrocities)
   - [Ramachandra delinks Islam from Islamic terror](#ramachandra-delinks-islam-from-islamic-terror)
-  - [Ramachandra is unfamiliar with the text of the ICJ ruling](#ramachandra-is-unfamiliar-with-the-text-of-the-icj-ruling)
+  - [Ramachandra is unfamiliar with the text of the ICJ ruling and does not understand how the ICC works](#ramachandra-is-unfamiliar-with-the-text-of-the-icj-ruling-and-does-not-understand-how-the-icc-works)
   - [Conclusion](#conclusion)
   - [References](#references)
 
@@ -89,7 +89,7 @@ There is much more that I can say on this topic but what I have laid out is suff
 
 It is remarkable that for 20 years Ramachandra has blamed "Christian Zionists" for the Israel-Palestine conflict while simultaneously refusing to consider Islam’s role in it. This is not the mark of a serious and objective scholar.
 
-## Ramachandra is unfamiliar with the text of the ICJ ruling 
+## Ramachandra is unfamiliar with the text of the ICJ ruling and does not understand how the ICC works
 
 Ramachandra has also recently circulated an open letter which misrepresents the ICJ provisional measures ruling dated 26 January 2024 on South Africa's case against Israel.[^3] The ICJ did not identify genocide or ethnic cleansing by Israel as the letter claims. In fact, it could not have done so, as the court did not evaluate the merits of South Africa’s allegations during the provisional measures phase:
 
@@ -98,6 +98,8 @@ Ramachandra has also recently circulated an open letter which misrepresents the 
 The court instead considered whether the rights asserted by South Africa—specifically, the right of Palestinians “to be protected from acts of genocide, attempted genocide, direct and public incitement to commit genocide, complicity in genocide, and conspiracy to commit genocide” (paragraph #37)—are plausible. The word “plausible” appears 15 times in the decision text, always in the context of “rights asserted by South Africa,” never in the context of “genocide” or “ethnic cleansing.” In fact, the term “ethnic cleansing” does not appear at all in the decision text. Moreover, it is instructive that the court did not order a ceasefire as South Africa had requested. Instead, it instructed Israel to comply with the Genocide Convention, which Israel was already obligated to do as a party to the convention. If the court did find plausible genocide, as Ramachandra's letter claims, is it not unusual that it did not order an immediate ceasefire? Keep in mind also that the ICJ is capable of ordering such a ceasefire as it did against Russia in March 2022. 
 
 Ramachandra appears unfamiliar with the actual text of the decision but the text is quite explicit about what it found to be plausible which has since been clarified beyond reasonable doubt by the former president of the ICJ who presided over the hearing.[^5]
+
+In a recent email, Ramachandra claimed that the ICC Prosecutor has "issued" arrest warrants against Netanyahu and the Israeli defense minister Gallant for war crimes. In reality, the prosecutor made an application for arrest warrants. The ICC has yet to make a final decision. In both the prosecutor's statement and the expert report that accompanied it, again, the word "genocide" is absent.  
 
 ## Conclusion
 
