@@ -99,7 +99,7 @@ The court instead considered whether the rights asserted by South Africa—speci
 
 Ramachandra appears unfamiliar with the actual text of the decision but the text is quite explicit about what it found to be plausible which has since been clarified beyond reasonable doubt by the former president of the ICJ who presided over the hearing.[^5]
 
-In a recent email, Ramachandra claimed that the ICC Prosecutor has "issued" arrest warrants against Netanyahu and the Israeli defense minister Gallant for war crimes. In reality, the prosecutor made an application for arrest warrants. The ICC has yet to make a final decision. In both the prosecutor's statement and the expert report that accompanied it, again, the word "genocide" is absent.  
+Ramachandra also claims that the ICC Prosecutor has "issued" arrest warrants against Netanyahu and the Israeli defense minister Gallant for war crimes. In reality, the prosecutor made an application for arrest warrants. The ICC has yet to make a final decision. In both the prosecutor's statement and the expert report that accompanied it, again, the word "genocide" is absent.  
 
 ## Conclusion
 
