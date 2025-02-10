@@ -1,6 +1,6 @@
 # Subverting Ramachandra Myths
 
-On December 2, 2023, St Paul’s Church Milagiriya organised a public seminar on ‘Israel & the Church’. The main speaker at the event was Vinoth Ramachandra with whom I disagreed during the Q&A. Ramachandra, in response, asked for my sources—at the event and subsequently via email. Although I drafted a response, I never sent it to him. 
+On December 2, 2023, St Paul’s Church Milagiriya organised a public seminar on ‘Israel & the Church’. The main speaker at the event was Vinoth Ramachandra with whom I disagreed during the Q&A. Ramachandra, in response, asked for my sources—at the event and later via email. Although I drafted a response, I never sent it to him. 
 
 Upon reflection, following a recent email exchange with him, I am now publishing an updated version of what I wrote last December. My decision to put this on public record is informed by the absence of a credible challenge to Ramachandra’s position as a some sort of an authority on Israeli history and the Israel-Palestine conflict amongst the English-speaking, Colombo-living Christians. 
 
