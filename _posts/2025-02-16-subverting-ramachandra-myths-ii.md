@@ -1,0 +1,3 @@
+I had another round of exchange with Vinoth Ramachandra on the Israel-Palestine conflict. I did not intend to write another piece on Ramachandra but I am compelled to do so because he would not allow my comment pointing out his basic factual errors on his blog. So here goes. 
+
+It started with Ramachandra's most recent blogpost titled, Kiss or Kick Ass? [link](https://vinothramachandra.wordpress.com/2025/02/12/kiss-or-kick-ass/). The article contained blatant falsehoods. This is typical for Ramachandra, as I have pointed out in detail here [link](https://elihoole.github.io/2024/06/23/subverting-ramachandra-myths.html)
