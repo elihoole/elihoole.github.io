@@ -15,3 +15,9 @@ I replied to his blogpost thus:
 > If you exercised logic, you would realise that Avnery himself is a counterpoint to the broad and sweeping generalizations of the quotation."
 
 
+Some readers might find my assertion that Ramachandra is a Jew hater unwarranted. Let me elaborate. The essence of Ramachandra's Jew hate lies in his insistence that Israel as a nation and Israelis as a people are uniquely evil. For instance, in his suggestively titled blogpost "[Israel: A Unique State](https://vinothramachandra.wordpress.com/2021/05/23/israel-a-unique-state/)", Ramachandra makes the following claims. 
+
+The Avenry quote that I reference is the following:
+
+> “I will tell you something about the Holocaust. It would be nice to believe that people who have undergone suffering have been purified by suffering. But it’s the opposite, it makes them worse. It corrupts. There is something in suffering that creates a kind of egoism. Herzog [the Israeli president at the time] was speaking at the site of the concentration camp at Bergen-Belsen but he spoke only about the Jews. How could he not mention that others – many others – had suffered there? Sick people, when they are in pain, cannot speak about anyone but themselves. And when such monstrous things have happened to your people, you feel nothing can be compared to it. You get a moral ‘power of attorney’, a permit to do anything you want – because nothing can compare to what has happened to us. This is a moral immunity which is very clearly felt in Israel. Everyone is convinced that the IDF is more humane than any other army. ‘Purity of arms’ was the slogan of the Haganah army in ’48. But it never was true at all.”
+
