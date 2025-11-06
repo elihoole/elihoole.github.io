@@ -1,10 +1,6 @@
 # Output over craft
 
-A reflection on the effects oWhile the Now, this veMy strength as an engineer is big-picture thinking; many observant senior engineers, to whom I've reported, have told me this. Details though have always required effort. Yet here's the irony: to truly understand big pictures—ones built on mathematical insight or years of experimental results, ones worth knowing, ones that blow your mind—I've had to work through the details. Symbolic reasoning only emerged from manipulating raw numerics, working through toy problems, and tracing patterns across them. Slowly, line by line, on paper. Lectures felt like wasted time. Real learning, to me, meant sitting down with a textbook, a few sheets of paper, a pen, and a calculator, and grinding through the particulars. Similarly, when it came to understanding large software systems, I had to step through the debugger and inspect intermediate values.y march of abstraction is why software runs the world: it frees up our cognition for composition and enables API monkeys like me to write and run software that doesn't break. Yet it also means that many of us are out of touch with the low-level machinery of how software actually works.
-
-Is there a point on the curve of abstraction where we stop doing our jobs as engineers? Questions once rooted in technology are now questions of economics, and in most production systems, we simply choose between "managed" services. Is a "search engineer" who simply picks between Typesense Cloud vs. Algolia for building an e-commerce site, largely basing the choice on projected monthly cost, actually doing search engineering?ond cause is circumstantial, the first raises deeper questions about how abstraction shapes our everyday work.
-
-In Grady Booch's words, the story of software is one of rising abstraction. We see it most clearly in the evolution of programming languages. Today, hardly anyone writes assembly. Even C programmers rarely think in terms of registers, flags, or instruction timing. Compilers and runtimes decide register allocation, instruction selection, inlining, and vectorization. In the 1980s, every software engineer would have had to worry about memory management. We no longer do. The same pattern repeats across the stack:bstraction, AI, and disembodied work.
+A reflection on the effects of abstractIs there a point on the curve of abstraction where we stop doing our jobs as engineers? Questions once rooted in technology are now questions of economics, and in most production systems, we simply choose between "managed" services. Is a "search engineer" who simply picks between Typesense Cloud vs. Algolia for building an e-commerce site, largely basing the choice on projected monthly cost, actually doing search engineering?on, AI, and disembodied work.
 
 ## Table of Contents
 
@@ -80,7 +76,8 @@ AI, thus, has had a similar effect as abstraction: it distances me from the deta
 
 A question on reciprocal rank fusion (RRF) at the interview reminded me how conceptual knowledge slips when I don’t work it by hand. To execute paralegal.lk's hybrid mode queries, Typesense fuses custom text-match scores with vector similarity using RRF. I’ve known this since the beginning, but I never had to revisit the math, for reasons I set out under the ill effects of abstraction.
 
-Three days before the interview, I skimmed a ChatGPT explainer on RRF, and it all felt clear. But, at the interview, it fell apart. I mistakenly recalled that the denominator term adds a constant to raw scores from the different search components, when in fact it adds a constant to the rank assigned by each component (i.e., constant + rank k(d)).
+Three days before the interview, I skimmed a ChatGPT explainer on RRF, and it all felt clear.
+But, at the interview, it fell apart. I mistakenly recalled that the denominator  term adds a constant to raw scores from the different search components, when in fact it adds a constant to the rank assigned by each component (i.e., constant + rank k(d)).
 
 My earlier quip on learning with paper, pen, and a calculator was a callback to my university days. As an electrical engineering undergraduate, in exams, I could only answer questions I had worked through by hand. Many modules ran on gnarly equations; writing them out was how they stuck. There was a suspect quality to formulae or sample problems I merely read.
 
@@ -108,7 +105,7 @@ But I actually love search as a computing problem. It is at the heart of everyth
 
 Now that I've finally plugged nearly every data hole, it's time to shake things up and migrate [paralegal.lk](https://www.paralegal.lk). Will I be hand-tuning how bits are packed into SSD pages? Absolutely not. The heuristic for the right level abstraction is this: am I elbow-deep in the code that actually makes or breaks what I care about?
 
-In search, that means relevance and speed. The scoring functions that determine which document surfaces first. The index structures that decide whether a query takes milliseconds or minutes. These are the levers that actually move the needle on search quality. It is time to get my hands dirty on those parts. I will be migrating to a platform that, by design, forces me to think about the details of search. It could be Elasticsearch, it may be Lucene. I will update this post when I do make the call.
+In search, that means relevance and speed. The scoring functions that determine which document surfaces first. The index structures that decide whether a query takes milliseconds or minutes. These are the levers that actually move the needle on search quality. It is time to get my hands dirty on those parts. I will be migrating to a platform that, by design, forces me to think about the details of search. It could be Elasticsearch, it may be Lucene. I will update this post when I make the call.
 
 ### Against AI: keeping my fingers in the sauce
 
@@ -128,7 +125,7 @@ What does this mean for my everyday? Following DHH's advice, I am going to stop 
 
 That I could not recall how BM25 works, even with the code open in front of me, bothered me a great deal. I decided to revisit it in the only way I know makes learning stick.
 
-Last Saturday, I took the train back from Jaffna to Colombo. Before leaving, I dusted off my copy of *Introduction to Information Retrieval* textbook by Manning et al. after four years. My scientific calculator had run out of battery; I got a new *Casio ES-991 Plus* from Poobalasingham Bookstore. During the journey, I hand computed BM25 scores on a toy corpus I created and wrote a step-by-step explainer: [nano-bm25](https://github.com/elihoole/nano-bm25).
+Last Saturday, I took the train back from Jaffna to Colombo. Before leaving, I dusted up my copy of *Introduction to Information Retrieval* textbook by Manning et al. after four years. My scientific calculator had run out of battery; I got a new *Casio ES-991 Plus* from Poobalasingham Bookstore. During the journey, I hand computed BM25 scores on a toy corpus I created and wrote a step-by-step explainer: [nano-bm25](https://github.com/elihoole/nano-bm25).
 
 I felt as though I was unlocking parts of my mind that had long lain dormant. As I worked through the math by hand, with the steady rhythm of the train engine in the background, I slipped into a meditative focus. The deliberate pace, the tactile satisfaction of pen on paper, and the quiet joy of seeing the math on paper align with the math in code.
 
