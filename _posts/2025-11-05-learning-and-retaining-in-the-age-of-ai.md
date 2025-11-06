@@ -79,7 +79,7 @@ In a recent interview, DHH, the creator of Ruby on Rails, had this to say:
 
 Stepping away from pen, paper, and keyboard means losing touch with the essence of craft. My RRF stumble was not an isolated mistake but a symptom of disembodied practice.
 
-## Coda: raging against the dying of the light
+## A beggining: raging against the dying of the light
 
 Sure, a few hours of hard-nosed prep would have saved me some embarrassment. But that's not the story here. This isn't a how-to for interviews—it's a manifesto for staying sharp. How do I keep learning while building? How do I hold onto what matters beyond the next sprint? How do I keep my mind fierce and alive when APIs do the thinking and AI does the typing? This is my rallying cry. Rage, rage against the dying of the light.
 
