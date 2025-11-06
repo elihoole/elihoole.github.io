@@ -2,6 +2,18 @@
 
 A reflection on the effects of abstraction, AI, and disembodied work.
 
+## Table of Contents
+
+- [Background](#background)
+- [Reflection](#reflection)
+    - [Rising abstraction](#rising-abstraction)
+    - [AI distancing](#ai-distancing)
+    - [Disembodied practice](#disembodied-practice)
+- [A beginning: raging against the dying of the light](#a-beggining-raging-against-the-dying-of-the-light)
+    - [Against abstraction: getting my hands dirty in what matters](#against-abstraction-getting-my-hands-dirty-in-what-matters)
+    - [Against AI: keeping my fingers in the sauce](#against-ai-keeping-my-fingers-in-the-sauce)
+    - [Against disembodiment: finding my pen and paper](#against-disembodiment-finding-my-pen-and-paper)
+
 ## Background
 
 I interviewed for a search engineering role. Since I work on search stuff everyday at [paralegal.lk](https://www.paralegal.lk), I assumed that my relevant technical knowledge is up to scratch. A busy work week meant that I went in a underprepared. Rust from not having interviewed for technical roles for nearly two years had a compounding impact.
