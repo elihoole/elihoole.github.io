@@ -18,7 +18,7 @@ A reflection on the effects of abstraction, AI, and disembodied work.
 
 I interviewed for a search engineering role. Since I work on search stuff everyday at [paralegal.lk](https://www.paralegal.lk), I assumed that my relevant technical knowledge is up to scratch. A busy work week meant that I went in underprepared. Rust from not having interviewed for technical roles for nearly two years had a compounding impact.
 
- At the interview, most questions focused on search fundamentals: preprocessing, indexing, general purpose retrieval algorithms, etc. Stuff I know quite well. Or, stuff I thought I knew quite well. It turned out that I could not, infact, answer some basic questions.
+At the interview, most questions focused on search fundamentals: preprocessing, indexing, general purpose retrieval algorithms, etc. Stuff I know quite well. Or, stuff I thought I knew quite well. It turned out that I could not, infact, answer some basic questions.
 
 I could visualise the critical steps up to indexing. Start with a bunch of documents, lower case the text, strip away punctuation, delete stop words, stem, and then create a positional inverted index. I could also picture the logical layout of a typical positional inverted index.
 
@@ -91,7 +91,7 @@ In a recent interview, DHH, the creator of Ruby on Rails, had this to say:
 
 Stepping away from pen, paper, and keyboard means losing touch with the essence of craft. My RRF stumble was not an isolated mistake but a symptom of disembodied practice.
 
-## A beggining: raging against the dying of the light
+## A beginning: raging against the dying of the light
 
 Sure, a few hours of hard-nosed prep would have saved me some embarrassment. But that's not the story here. This isn't a how-to for interviews—it's a manifesto for staying sharp. How do I keep learning while building? How do I hold onto what matters beyond the next sprint? How do I keep my mind fierce and alive when APIs do the thinking and AI does the typing? This is my rallying cry. Rage, rage against the dying of the light.
 
